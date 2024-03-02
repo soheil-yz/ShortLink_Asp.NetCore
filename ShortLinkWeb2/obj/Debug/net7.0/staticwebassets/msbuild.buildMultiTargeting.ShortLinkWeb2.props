@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ShortLinkWeb2.props" />
+</Project>

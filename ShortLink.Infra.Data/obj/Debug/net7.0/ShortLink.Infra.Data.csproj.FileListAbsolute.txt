@@ -14,4 +14,4 @@ C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\Sho
 C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\ShortLink2\ShortLink.Infra.Data\obj\Debug\net7.0\ShortLink.Infra.Data.genruntimeconfig.cache
 C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\ShortLink2\ShortLink.Infra.Data\bin\Debug\net7.0\shortLink.Domain.dll
 C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\ShortLink2\ShortLink.Infra.Data\bin\Debug\net7.0\shortLink.Domain.pdb
-C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\ShortLink2\ShortLink.Infra.Data\obj\Debug\net7.0\ShortLink.Infra.Data.csproj.CopyComplete
+C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\ShortLink2\ShortLink.Infra.Data\obj\Debug\net7.0\ShortLin.7BAB285F.Up2Date

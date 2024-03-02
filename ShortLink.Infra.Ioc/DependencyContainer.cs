@@ -9,7 +9,7 @@ namespace ShortLink.Infra.Ioc
 {
     public static class DependencyContainer
     {
-        public static  void RegisterService(IServiceCollection services)
+        public static void RegisterService(IServiceCollection services)
         {
             #region repository
 
@@ -23,7 +23,6 @@ namespace ShortLink.Infra.Ioc
             #region tools
 
             #endregion
-
         }
 
 

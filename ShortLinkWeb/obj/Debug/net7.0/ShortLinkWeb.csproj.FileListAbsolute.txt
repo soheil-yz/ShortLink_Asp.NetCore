@@ -72,7 +72,6 @@ C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\Sho
 C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\ShortLink2\ShortLinkWeb\bin\Debug\net7.0\ShortLink.Infra.Ioc.dll
 C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\ShortLink2\ShortLinkWeb\bin\Debug\net7.0\ShortLink.Infra.Ioc.pdb
 C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\ShortLink2\ShortLinkWeb\obj\Debug\net7.0\ShortLinkWeb.csproj.AssemblyReference.cache
-C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\ShortLink2\ShortLinkWeb\obj\Debug\net7.0\ShortLinkWeb.csproj.CopyComplete
 C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\ShortLink2\ShortLinkWeb\bin\Debug\net7.0\ShortLink.Application.dll
 C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\ShortLink2\ShortLinkWeb\bin\Debug\net7.0\shortLink.Domain.dll
 C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\ShortLink2\ShortLinkWeb\bin\Debug\net7.0\ShortLink.Infra.Data.dll
@@ -81,3 +80,4 @@ C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\Sho
 C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\ShortLink2\ShortLinkWeb\bin\Debug\net7.0\ShortLink.Infra.Data.pdb
 C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\ShortLink2\ShortLinkWeb\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
 C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\ShortLink2\ShortLinkWeb\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\ShortLink2\ShortLinkWeb\obj\Debug\net7.0\ShortLin.6715AD8C.Up2Date

@@ -11,3 +11,7 @@ C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\Sho
 C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\ShortLink2\ShortLink.Application\obj\Debug\net7.0\ref\ShortLink.Application.dll
 C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\ShortLink2\ShortLink.Application\bin\Debug\net7.0\ShortLink.Application.runtimeconfig.json
 C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\ShortLink2\ShortLink.Application\obj\Debug\net7.0\ShortLink.Application.genruntimeconfig.cache
+C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\ShortLink2\ShortLink.Application\bin\Debug\net7.0\shortLink.Domain.dll
+C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\ShortLink2\ShortLink.Application\bin\Debug\net7.0\shortLink.Domain.pdb
+C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\ShortLink2\ShortLink.Application\obj\Debug\net7.0\ShortLink.Application.csproj.AssemblyReference.cache
+C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\ShortLink2\ShortLink.Application\obj\Debug\net7.0\ShortLin.5CBFEB31.Up2Date

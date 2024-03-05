@@ -10,4 +10,10 @@
     <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="7.0.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\ShortLink.Application\ShortLink.Application.csproj" />
+    <ProjectReference Include="..\shortLink.Domain\shortLink.Domain.csproj" />
+    <ProjectReference Include="..\ShortLink.Infra.Data\ShortLink.Infra.Data.csproj" />
+  </ItemGroup>
+
 </Project>

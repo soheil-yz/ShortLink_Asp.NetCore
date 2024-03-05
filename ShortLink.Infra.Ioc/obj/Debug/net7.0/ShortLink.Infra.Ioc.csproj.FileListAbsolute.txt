@@ -10,3 +10,8 @@ C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\Sho
 C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\ShortLink2\ShortLink.Infra.Ioc\obj\Debug\net7.0\refint\ShortLink.Infra.Ioc.dll
 C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\ShortLink2\ShortLink.Infra.Ioc\obj\Debug\net7.0\ShortLink.Infra.Ioc.pdb
 C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\ShortLink2\ShortLink.Infra.Ioc\obj\Debug\net7.0\ref\ShortLink.Infra.Ioc.dll
+C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\ShortLink2\ShortLink.Infra.Ioc\bin\Debug\net7.0\shortLink.Domain.dll
+C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\ShortLink2\ShortLink.Infra.Ioc\bin\Debug\net7.0\ShortLink.Infra.Data.dll
+C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\ShortLink2\ShortLink.Infra.Ioc\bin\Debug\net7.0\shortLink.Domain.pdb
+C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\ShortLink2\ShortLink.Infra.Ioc\bin\Debug\net7.0\ShortLink.Infra.Data.pdb
+C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\ShortLink2\ShortLink.Infra.Ioc\obj\Debug\net7.0\ShortLin.90274518.Up2Date

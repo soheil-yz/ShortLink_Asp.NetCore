@@ -261,7 +261,17 @@
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLink.Application\\ShortLink.Application.csproj": {
+                "projectPath": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLink.Application\\ShortLink.Application.csproj"
+              },
+              "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\shortLink.Domain\\shortLink.Domain.csproj": {
+                "projectPath": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\shortLink.Domain\\shortLink.Domain.csproj"
+              },
+              "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLink.Infra.Data\\ShortLink.Infra.Data.csproj": {
+                "projectPath": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLink.Infra.Data\\ShortLink.Infra.Data.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

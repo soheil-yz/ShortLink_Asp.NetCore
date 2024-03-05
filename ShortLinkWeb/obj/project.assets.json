@@ -1156,7 +1156,10 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection": "7.0.0"
+          "Microsoft.Extensions.DependencyInjection": "7.0.0",
+          "ShortLink.Application": "1.0.0",
+          "ShortLink.Infra.Data": "1.0.0",
+          "shortLink.Domain": "1.0.0"
         },
         "compile": {
           "bin/placeholder/ShortLink.Infra.Ioc.dll": {}

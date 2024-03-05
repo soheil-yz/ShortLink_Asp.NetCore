@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace ShortLink.Infra.Data.Repositories
 {
-    internal class UserRepository : IUserRepository
+    public class UserRepository : IUserRepository
     {
         private readonly ShortLinkContext _context;
         public UserRepository(ShortLinkContext context)

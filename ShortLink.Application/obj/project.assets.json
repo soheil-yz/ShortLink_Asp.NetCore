@@ -364,6 +364,16 @@
         "build": {
           "buildTransitive/net6.0/System.Text.Json.targets": {}
         }
+      },
+      "shortLink.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/shortLink.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/shortLink.Domain.dll": {}
+        }
       }
     }
   },
@@ -940,11 +950,17 @@
         "system.text.json.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "shortLink.Domain/1.0.0": {
+      "type": "project",
+      "path": "../shortLink.Domain/shortLink.Domain.csproj",
+      "msbuildProject": "../shortLink.Domain/shortLink.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
-      "Microsoft.EntityFrameworkCore.Tools >= 7.0.11"
+      "Microsoft.EntityFrameworkCore.Tools >= 7.0.11",
+      "shortLink.Domain >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -974,7 +990,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\shortLink.Domain\\shortLink.Domain.csproj": {
+              "projectPath": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\shortLink.Domain\\shortLink.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

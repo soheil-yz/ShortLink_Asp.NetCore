@@ -13,4 +13,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\shortLink.Domain\shortLink.Domain.csproj" />
+  </ItemGroup>
+
 </Project>

@@ -22,16 +22,20 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sohei/OneDrive/Desktop/ایمان تقوا وعمل صالح/csharp/ShortLink2/ShortLinkWeb/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/sohei/OneDrive/Desktop/ایمان تقوا وعمل صالح/csharp/ShortLink2/ShortLinkWeb/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/sohei/OneDrive/Desktop/ایمان تقوا وعمل صالح/csharp/ShortLink2/ShortLinkWeb/Views/Shared/_HeaderRefrence.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9IZWFkZXJSZWZyZW5jZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/sohei/OneDrive/Desktop/ایمان تقوا وعمل صالح/csharp/ShortLink2/ShortLinkWeb/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sohei/OneDrive/Desktop/ایمان تقوا وعمل صالح/csharp/ShortLink2/ShortLinkWeb/Views/Shared/_ScriptRefrence.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TY3JpcHRSZWZyZW5jZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/sohei/OneDrive/Desktop/ایمان تقوا وعمل صالح/csharp/ShortLink2/ShortLinkWeb/Views/Shared/_ValidationScriptsPartial.cshtml]

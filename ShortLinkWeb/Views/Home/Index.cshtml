@@ -1,8 +1,26 @@
 ﻿@{
-    ViewData["Title"] = "Home Page";
+    ViewData["Title"] = "Home Page | صفحه ی اصلی ";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+<section class="banner-section">
+    <div class="banner-bg bg_img" style="background-color: #2c18b4">
+        <div class="banner-bg-shape"><img src="./assets/images/banner/banner-shape.png" alt="banner"></div>
+        <div class="round-1"><img src="./assets/images/banner/01.png" alt="banner"></div>
+        <div class="round-2"><img src="./assets/images/banner/02.png" alt="banner"></div>
+    </div>
+    <div class="container">
+        <div class="banner-content"></div>
+        <div class="banner-form-group">
+            <h3 class="subtitle">Shorten URL Is Just Simple</h3>
+            <form class="banner-form" asp-action="Index" method="post">
+                <input type="text" placeholder="Your URL here" />
+                <button type="submit"> get link! <i class="flaticon-startup"></i></button>
+            </form>
+
+            <div class="alert alert-success">
+                
+            </div>
+            
+        </div>
+    </div>
+</section>

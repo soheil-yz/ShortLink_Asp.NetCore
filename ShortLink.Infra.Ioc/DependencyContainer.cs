@@ -25,7 +25,7 @@ namespace ShortLink.Infra.Ioc
 
 
             #region tools
-
+            services.AddScoped<IPasswordHelper, PasswordHalper>();
             #endregion
 
 

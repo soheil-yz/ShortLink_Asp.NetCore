@@ -23,7 +23,12 @@ namespace ShortLink.Application.DTOs.Account
 
         [Required]
         [MaxLength(200)]
-        public string Password { get; set; }
+        public string Password { get; set; }        
+        
+        [Required]
+        [MaxLength(200)]
+        [Compare("Password",ErrorMessage = "Password is not Similar with RePassword")]
+        public string RePassword { get; set; }
     }
     public enum RegisterUserResult
     {

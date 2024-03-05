@@ -13,10 +13,12 @@ namespace ShortLink.Application.Services
     public class UserService : IUserService
     {
         private readonly IUserRepository _userRepository;
+        private readonly IPasswordHelper _password;
 
-        public UserService(IUserRepository userRepository)
+        public UserService(IUserRepository userRepository , IPasswordHelper password)
         {
             _userRepository = userRepository;
+            _password = password;
         }
 
 
@@ -30,7 +32,7 @@ namespace ShortLink.Application.Services
                     FirstName = registerUser.FirstName,
                     LastName = registerUser.LastName,
                     Mobile = registerUser.Mobile,
-                    //Password = registerUser.Password,
+                    Password = _password.EcondePasswordMd5(registerUser.Password),
                     MobileActiceCode = new Random().Next(10000,999999999).ToString(),
                     LastUpDateData = DateTime.Now,
                     CreateData = DateTime.Now,

@@ -620,6 +620,7 @@
       "ShortLink.Infra.Ioc/1.0.0": {
         "dependencies": {
           "Microsoft.Extensions.DependencyInjection": "7.0.0",
+          "ShortLink.Application": "1.0.0",
           "ShortLink.Infra.Data": "1.0.0",
           "shortLink.Domain": "1.0.0"
         },

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using shortLink.Domain.Models.Account;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,5 +9,9 @@ namespace shortLink.Domain.Interface
 {
     public interface IUserRepository : IAsyncDisposable
     {
+        Task AddUser(User user);
+        Task SaveChange();
+        Task<bool> IsExistMobile(string mobile);
+
     }
 }

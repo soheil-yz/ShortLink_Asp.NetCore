@@ -29,6 +29,11 @@ namespace ShortLink.Infra.Data.Repositories
                 await _context.DisposeAsync();
         }
 
+        public async Task<User> GetUserByMobile(string mobile)
+        {
+            return await _context.users.SingleOrDefaultAsync(u => u.Mobile == mobile);
+        }
+
         public async Task<bool> IsExistMobile(string mobile)
         {
             return await _context.users.AnyAsync(u => u.Mobile == mobile);

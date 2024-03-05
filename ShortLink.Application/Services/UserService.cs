@@ -2,11 +2,6 @@
 using shortLink.Domain.Models.Account;
 using ShortLink.Application.DTOs.Account;
 using ShortLink.Application.Interfaces;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ShortLink.Application.Services
 {
@@ -20,7 +15,6 @@ namespace ShortLink.Application.Services
             _userRepository = userRepository;
             _password = password;
         }
-
 
 
         public async Task<RegisterUserResult> RegisterUser(RegisterUserDto registerUser)
@@ -43,5 +37,15 @@ namespace ShortLink.Application.Services
             }
             return RegisterUserResult.IsMobileExist;
         }
+        public async Task<LoginUserResult> LoginUser(LoginUserDto loginUser)
+        {
+            var user = await _userRepository.GetUserByMobile(loginUser.Mobile);
+            if(user == null) return LoginUserResult.NotFound;
+            if(!user.IsMobileActive) return LoginUserResult.NotActivate;
+            if(user.Password != _password.EcondePasswordMd5(loginUser.Password)) return LoginUserResult.NotFound;
+
+             return LoginUserResult.Success;
+        }
+
     }
 }

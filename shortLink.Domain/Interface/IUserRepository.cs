@@ -12,6 +12,6 @@ namespace shortLink.Domain.Interface
         Task AddUser(User user);
         Task SaveChange();
         Task<bool> IsExistMobile(string mobile);
-
+        Task<User> GetUserByMobile(string mobile);
     }
 }

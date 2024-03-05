@@ -10,5 +10,7 @@ namespace ShortLink.Application.Interfaces
     public interface IUserService
     {
         Task<RegisterUserResult> RegisterUser(RegisterUserDto registerUser);
+        Task<LoginUserResult> LoginUser(LoginUserDto loginUser);
+        
     }
 }

@@ -3,36 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\ShortLink2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C84D98DC-79F5-405A-BEF5-30018DD43434}|ShortLinkWeb\\ShortLinkWeb.csproj|c:\\users\\sohei\\onedrive\\desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\shortlink2\\shortlinkweb\\controllers\\sitebasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C84D98DC-79F5-405A-BEF5-30018DD43434}|ShortLinkWeb\\ShortLinkWeb.csproj|solutionrelative:shortlinkweb\\controllers\\sitebasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C84D98DC-79F5-405A-BEF5-30018DD43434}|ShortLinkWeb\\ShortLinkWeb.csproj|c:\\users\\sohei\\onedrive\\desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\shortlink2\\shortlinkweb\\views\\shared\\_message.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C84D98DC-79F5-405A-BEF5-30018DD43434}|ShortLinkWeb\\ShortLinkWeb.csproj|solutionrelative:shortlinkweb\\views\\shared\\_message.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C84D98DC-79F5-405A-BEF5-30018DD43434}|ShortLinkWeb\\ShortLinkWeb.csproj|c:\\users\\sohei\\onedrive\\desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\shortlink2\\shortlinkweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C84D98DC-79F5-405A-BEF5-30018DD43434}|ShortLinkWeb\\ShortLinkWeb.csproj|solutionrelative:shortlinkweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C84D98DC-79F5-405A-BEF5-30018DD43434}|ShortLinkWeb\\ShortLinkWeb.csproj|c:\\users\\sohei\\onedrive\\desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\shortlink2\\shortlinkweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C84D98DC-79F5-405A-BEF5-30018DD43434}|ShortLinkWeb\\ShortLinkWeb.csproj|solutionrelative:shortlinkweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C84D98DC-79F5-405A-BEF5-30018DD43434}|ShortLinkWeb\\ShortLinkWeb.csproj|c:\\users\\sohei\\onedrive\\desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\shortlink2\\shortlinkweb\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C84D98DC-79F5-405A-BEF5-30018DD43434}|ShortLinkWeb\\ShortLinkWeb.csproj|solutionrelative:shortlinkweb\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C84D98DC-79F5-405A-BEF5-30018DD43434}|ShortLinkWeb\\ShortLinkWeb.csproj|c:\\users\\sohei\\onedrive\\desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\shortlink2\\shortlinkweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C84D98DC-79F5-405A-BEF5-30018DD43434}|ShortLinkWeb\\ShortLinkWeb.csproj|solutionrelative:shortlinkweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7614CB5F-9C9F-42AA-96AF-68A40314917A}|ShortLink.Infra.Ioc\\ShortLink.Infra.Ioc.csproj|c:\\users\\sohei\\onedrive\\desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\shortlink2\\shortlink.infra.ioc\\dependencycontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7614CB5F-9C9F-42AA-96AF-68A40314917A}|ShortLink.Infra.Ioc\\ShortLink.Infra.Ioc.csproj|solutionrelative:shortlink.infra.ioc\\dependencycontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C84D98DC-79F5-405A-BEF5-30018DD43434}|ShortLinkWeb\\ShortLinkWeb.csproj|c:\\users\\sohei\\onedrive\\desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\shortlink2\\shortlinkweb\\views\\shared\\_headerrefrence.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C84D98DC-79F5-405A-BEF5-30018DD43434}|ShortLinkWeb\\ShortLinkWeb.csproj|solutionrelative:shortlinkweb\\views\\shared\\_headerrefrence.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C84D98DC-79F5-405A-BEF5-30018DD43434}|ShortLinkWeb\\ShortLinkWeb.csproj|c:\\users\\sohei\\onedrive\\desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\shortlink2\\shortlinkweb\\views\\shared\\_scriptrefrence.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C84D98DC-79F5-405A-BEF5-30018DD43434}|ShortLinkWeb\\ShortLinkWeb.csproj|solutionrelative:shortlinkweb\\views\\shared\\_scriptrefrence.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C84D98DC-79F5-405A-BEF5-30018DD43434}|ShortLinkWeb\\ShortLinkWeb.csproj|c:\\users\\sohei\\onedrive\\desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\shortlink2\\shortlinkweb\\views\\shared\\_headerrefrence.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C84D98DC-79F5-405A-BEF5-30018DD43434}|ShortLinkWeb\\ShortLinkWeb.csproj|solutionrelative:shortlinkweb\\views\\shared\\_headerrefrence.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C84D98DC-79F5-405A-BEF5-30018DD43434}|ShortLinkWeb\\ShortLinkWeb.csproj|c:\\users\\sohei\\onedrive\\desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\shortlink2\\shortlinkweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C84D98DC-79F5-405A-BEF5-30018DD43434}|ShortLinkWeb\\ShortLinkWeb.csproj|solutionrelative:shortlinkweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C84D98DC-79F5-405A-BEF5-30018DD43434}|ShortLinkWeb\\ShortLinkWeb.csproj|c:\\users\\sohei\\onedrive\\desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\shortlink2\\shortlinkweb\\controllers\\sitebasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C84D98DC-79F5-405A-BEF5-30018DD43434}|ShortLinkWeb\\ShortLinkWeb.csproj|solutionrelative:shortlinkweb\\controllers\\sitebasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,102 +38,68 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DependencyContainer.cs",
-              "DocumentMoniker": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\ShortLink2\\ShortLink.Infra.Ioc\\DependencyContainer.cs",
-              "RelativeDocumentMoniker": "ShortLink.Infra.Ioc\\DependencyContainer.cs",
-              "ToolTip": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\ShortLink2\\ShortLink.Infra.Ioc\\DependencyContainer.cs",
-              "RelativeToolTip": "ShortLink.Infra.Ioc\\DependencyContainer.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABsAAABCAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-05T16:40:22.254Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_HeaderRefrence.cshtml",
-              "DocumentMoniker": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\ShortLink2\\ShortLinkWeb\\Views\\Shared\\_HeaderRefrence.cshtml",
-              "RelativeDocumentMoniker": "ShortLinkWeb\\Views\\Shared\\_HeaderRefrence.cshtml",
-              "ToolTip": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\ShortLink2\\ShortLinkWeb\\Views\\Shared\\_HeaderRefrence.cshtml",
-              "RelativeToolTip": "ShortLinkWeb\\Views\\Shared\\_HeaderRefrence.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-05T16:31:08.147Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\ShortLink2\\ShortLinkWeb\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "ShortLinkWeb\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\ShortLink2\\ShortLinkWeb\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "ShortLinkWeb\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAmAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACwAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-05T16:26:25.311Z"
+              "WhenOpened": "2024-03-07T09:55:12.526Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\ShortLink2\\ShortLinkWeb\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "ShortLinkWeb\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\ShortLink2\\ShortLinkWeb\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "ShortLinkWeb\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-05T16:23:05.889Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SiteBaseController.cs",
-              "DocumentMoniker": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\ShortLink2\\ShortLinkWeb\\Controllers\\SiteBaseController.cs",
-              "RelativeDocumentMoniker": "ShortLinkWeb\\Controllers\\SiteBaseController.cs",
-              "ToolTip": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\ShortLink2\\ShortLinkWeb\\Controllers\\SiteBaseController.cs",
-              "RelativeToolTip": "ShortLinkWeb\\Controllers\\SiteBaseController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-05T15:26:40.132Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\ShortLink2\\ShortLinkWeb\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "ShortLinkWeb\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\ShortLink2\\ShortLinkWeb\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "ShortLinkWeb\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-05T15:25:52.226Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\ShortLink2\\ShortLinkWeb\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "ShortLinkWeb\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\ShortLink2\\ShortLinkWeb\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "ShortLinkWeb\\Controllers\\AccountController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-05T15:25:33.927Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "_ScriptRefrence.cshtml",
               "DocumentMoniker": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\ShortLink2\\ShortLinkWeb\\Views\\Shared\\_ScriptRefrence.cshtml",
               "RelativeDocumentMoniker": "ShortLinkWeb\\Views\\Shared\\_ScriptRefrence.cshtml",
               "ToolTip": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\ShortLink2\\ShortLinkWeb\\Views\\Shared\\_ScriptRefrence.cshtml",
               "RelativeToolTip": "ShortLinkWeb\\Views\\Shared\\_ScriptRefrence.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAArAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-05T16:33:26.904Z"
+              "WhenOpened": "2024-03-07T09:42:25.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_HeaderRefrence.cshtml",
+              "DocumentMoniker": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\ShortLink2\\ShortLinkWeb\\Views\\Shared\\_HeaderRefrence.cshtml",
+              "RelativeDocumentMoniker": "ShortLinkWeb\\Views\\Shared\\_HeaderRefrence.cshtml",
+              "ToolTip": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\ShortLink2\\ShortLinkWeb\\Views\\Shared\\_HeaderRefrence.cshtml",
+              "RelativeToolTip": "ShortLinkWeb\\Views\\Shared\\_HeaderRefrence.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-07T09:27:44.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Message.cshtml",
+              "DocumentMoniker": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\ShortLink2\\ShortLinkWeb\\Views\\Shared\\_Message.cshtml",
+              "RelativeDocumentMoniker": "ShortLinkWeb\\Views\\Shared\\_Message.cshtml",
+              "ToolTip": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\ShortLink2\\ShortLinkWeb\\Views\\Shared\\_Message.cshtml",
+              "RelativeToolTip": "ShortLinkWeb\\Views\\Shared\\_Message.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-07T09:15:59.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SiteBaseController.cs",
+              "DocumentMoniker": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\ShortLink2\\ShortLinkWeb\\Controllers\\SiteBaseController.cs",
+              "RelativeDocumentMoniker": "ShortLinkWeb\\Controllers\\SiteBaseController.cs",
+              "ToolTip": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\ShortLink2\\ShortLinkWeb\\Controllers\\SiteBaseController.cs",
+              "RelativeToolTip": "ShortLinkWeb\\Controllers\\SiteBaseController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T09:11:57.91Z",
+              "EditorCaption": ""
             }
           ]
         }

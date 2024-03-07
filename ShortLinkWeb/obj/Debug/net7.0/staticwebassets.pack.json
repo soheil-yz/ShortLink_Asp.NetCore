@@ -85,6 +85,10 @@
       "PackagePath": "staticwebassets\\assets\\css\\nice-select.css"
     },
     {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\css\\notifications.css",
+      "PackagePath": "staticwebassets\\assets\\css\\notifications.css"
+    },
+    {
       "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\css\\owl.min.css",
       "PackagePath": "staticwebassets\\assets\\css\\owl.min.css"
     },
@@ -479,6 +483,10 @@
     {
       "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\js\\counterup.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\counterup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\js\\custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\custom.js"
     },
     {
       "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\js\\jquery-3.3.1.min.js",

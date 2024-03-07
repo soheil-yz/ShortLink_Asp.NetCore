@@ -4,9 +4,10 @@ namespace ShortLinkWeb.Controllers
 {
     public class SiteBaseController : Controller
     {
-        //public IActionResult Index()
-        //{
-        //    return View();
-        //}
+        protected string ErrorMassege = "ErrorMessage";
+        protected string InfoMassege = "InfoMassege";
+        protected string SuccessMassege = "SuccessMassege";
+        protected string WarningMassege = "WarningMassege";
+
     }
 }

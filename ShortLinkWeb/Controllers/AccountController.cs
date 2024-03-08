@@ -86,5 +86,11 @@ namespace ShortLinkWeb.Controllers
             }
             return View(loginUser);
         } 
+
+       public async Task<IActionResult> Logout()
+        {
+            await HttpContext.SignOutAsync();
+            return RedirectToAction("index", "Home");
+        }
     }
 }

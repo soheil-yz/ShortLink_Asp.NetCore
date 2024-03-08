@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "7aUEHDuptFWxvwgnw+RjcYrLJ1M/FKS/N9L5PTSMlDE=",
+  "Hash": "V1b3puMBkT+EKs+kM5fPWVC3kWJDDjaxqdW5e7ihzFM=",
   "Source": "ShortLinkWeb",
   "BasePath": "_content/ShortLinkWeb",
   "Mode": "Default",
@@ -775,6 +775,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\images\\banner\\02.png"
+    },
+    {
+      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\banner\\03.png",
+      "SourceId": "ShortLinkWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "BasePath": "_content/ShortLinkWeb",
+      "RelativePath": "assets/images/banner/03.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\banner\\03.png"
     },
     {
       "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\banner\\banner-bg.jpg",

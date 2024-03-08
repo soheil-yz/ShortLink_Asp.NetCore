@@ -55,7 +55,7 @@ namespace ShortLinkWeb
             }).AddCookie(option =>
             {
                 option.LoginPath = "/login";
-                option.LogoutPath = "/log-Out";
+                option.LogoutPath = "/Logout";
                 option.ExpireTimeSpan = TimeSpan.FromMinutes(43200);
 
             });

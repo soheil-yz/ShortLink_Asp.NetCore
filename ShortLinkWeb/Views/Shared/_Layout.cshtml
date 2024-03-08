@@ -15,10 +15,20 @@
     <header class="header-section" style="background-color: #2c18b4">
         <div class="container">
             <div class="header-wrapper">
-                <ul class="menu">
-                    <li><a asp-action="Login" asp-controller="Account">Login</a></li>
-                    <li><a asp-action="Register" asp-controller="Account">Register</a></li>
-                </ul>
+                @if (!User.Identity.IsAuthenticated)
+                {
+                    <ul class="menu">
+                        <li><a asp-action="Login" asp-controller="Account">Login</a></li>
+                        <li><a asp-action="Register" asp-controller="Account">Register</a></li>
+                    </ul>
+                }
+                else
+                {
+                    <ul class="menu">
+                        <li><a>@User.Identity.Name</a></li>
+                        <li><a asp-action="LogOut" asp-controller="Account">Logout</a></li>
+                    </ul>
+                }
                 <div class="header-bar d-lg-none mr-sm-3">
                     <span></span>
                     <span></span>

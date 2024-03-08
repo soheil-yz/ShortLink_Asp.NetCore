@@ -1,0 +1,49 @@
+﻿@model ShortLink.Application.DTOs.Account.LoginUserDto
+@{
+    ViewData["Title"] = "Login";
+}
+
+
+<section class="h-100 mt-5">
+    <div class="container h-100">
+        <div class="row justify-content-md-center h-100">
+            <div class="card-wrapper">
+                <div class="card fat">
+                    <div class="card-body">
+                        <h4 class="card-title">Login</h4>
+                        <form method="POST" class="my-login-validation" novalidate="">
+                            <div class="form-group">
+                                <label for="email">Phone Number</label>
+                                <input asp-for="Mobile" class="form-control">
+
+                            </div>
+
+                            <div class="form-group">
+                                <label for="email">Password</label>
+                                <input asp-for="Password" type="password" class="form-control" >
+
+                            </div>
+
+                            <div class="form-group">
+                                <div class="custom-checkbox custom-control">
+                                    <input type="checkbox" asp-for="RememberMe" class="custom-control-input">
+                                    <label for="remember" class="custom-control-label">Remember Me</label>
+                                </div>
+                            </div>
+
+                            <div class="form-group m-0">
+                                <button type="submit" class="btn btn-primary btn-block">
+                                    Login
+                                </button>
+                            </div>
+                            <div class="mt-4 text-center">
+                                Don't have an account? <a asp-action="Register" asp-controller="Account">Create One</a>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</section>

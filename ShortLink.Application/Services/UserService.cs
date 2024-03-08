@@ -47,5 +47,11 @@ namespace ShortLink.Application.Services
              return LoginUserResult.Success;
         }
 
+        public async Task<User> GetUserByMobile(string mobile)
+        {
+            var Mobile = await _userRepository.GetUserByMobile(mobile);
+            return Mobile;
+
+        }
     }
 }

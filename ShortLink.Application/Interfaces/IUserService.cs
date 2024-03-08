@@ -1,4 +1,5 @@
-﻿using ShortLink.Application.DTOs.Account;
+﻿using shortLink.Domain.Models.Account;
+using ShortLink.Application.DTOs.Account;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,6 +12,7 @@ namespace ShortLink.Application.Interfaces
     {
         Task<RegisterUserResult> RegisterUser(RegisterUserDto registerUser);
         Task<LoginUserResult> LoginUser(LoginUserDto loginUser);
+        Task<User> GetUserByMobile(string mobile);
         
     }
 }

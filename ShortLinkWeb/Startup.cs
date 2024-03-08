@@ -15,6 +15,7 @@ using Microsoft.EntityFrameworkCore.Design;
 using ShortLink.Infra.Ioc;
 using System.Text.Encodings.Web;
 using System.Text.Unicode;
+using Microsoft.AspNetCore.Authentication.Cookies;
 
 
 namespace ShortLinkWeb
@@ -44,7 +45,20 @@ namespace ShortLinkWeb
             {
                 UnicodeRanges.BasicLatin,
                 UnicodeRanges.Arabic
-            })) ;
+            }));
+            services.AddAuthentication(option =>
+            {
+                option.DefaultAuthenticateScheme = CookieAuthenticationDefaults.AuthenticationScheme;
+                option.DefaultSignInScheme = CookieAuthenticationDefaults.AuthenticationScheme;
+                option.DefaultChallengeScheme = CookieAuthenticationDefaults.AuthenticationScheme;
+
+            }).AddCookie(option =>
+            {
+                option.LoginPath = "/login";
+                option.LogoutPath = "/log-Out";
+                option.ExpireTimeSpan = TimeSpan.FromMinutes(43200);
+
+            });
         }
 
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)

@@ -1,6 +1,12 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authentication;
+using Microsoft.AspNetCore.Authentication.Cookies;
+using Microsoft.AspNetCore.Mvc;
 using ShortLink.Application.DTOs.Account;
 using ShortLink.Application.Interfaces;
+using System.Collections.Generic;
+using System.Diagnostics;
+using System.Linq.Expressions;
+using System.Security.Claims;
 using System.Threading.Tasks;
 
 namespace ShortLinkWeb.Controllers
@@ -50,7 +56,33 @@ namespace ShortLinkWeb.Controllers
         {
             if (ModelState.IsValid)
             {
-
+                var result = await _userService.LoginUser(loginUser);
+                switch(result)
+                {
+                    case LoginUserResult.NotFound:
+                        TempData[ErrorMassege] = "User NotFound";
+                        break;
+                    case LoginUserResult.NotActivate:
+                        TempData[WarningMassege] = "This User is not Actiove";
+                        break;
+                    case LoginUserResult.Success:
+                        var user = await _userService.GetUserByMobile(loginUser.Mobile);
+                        var claims = new List<Claim> 
+                        {
+                            new Claim(ClaimTypes.Name,user.Mobile),
+                            new Claim(ClaimTypes.NameIdentifier,user.Id.ToString()),
+                        };
+                        var identoty = new  ClaimsIdentity(claims,CookieAuthenticationDefaults.AuthenticationScheme);
+                        var principle = new ClaimsPrincipal(identoty);
+                        var properties = new AuthenticationProperties
+                        {
+                                IsPersistent = loginUser.RememberMe,
+                        };
+                        await HttpContext.SignInAsync(principle, properties);
+                        TempData[SuccessMassege] = "You Are Login Now";
+                        return RedirectToAction("index" , "Home");
+                        
+                }
             }
             return View(loginUser);
         } 

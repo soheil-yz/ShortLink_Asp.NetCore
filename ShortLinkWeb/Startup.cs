@@ -13,6 +13,8 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore.Design;
 using ShortLink.Infra.Ioc;
+using System.Text.Encodings.Web;
+using System.Text.Unicode;
 
 
 namespace ShortLinkWeb
@@ -38,6 +40,11 @@ namespace ShortLinkWeb
                 opctions.UseSqlServer(Configuration.GetConnectionString("ShortLinkSqlConnection"));
             });
             #endregion
+            services.AddSingleton<HtmlEncoder>(HtmlEncoder.Create(allowedRanges: new[]
+            {
+                UnicodeRanges.BasicLatin,
+                UnicodeRanges.Arabic
+            })) ;
         }
 
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)

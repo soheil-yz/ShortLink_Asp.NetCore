@@ -1,41 +1,40 @@
-﻿@if (TempData["ErrorMessage"] != null || 
-TempData["InfoMessage"] != null || 
-TempData["WarningMessage"] != null || 
-TempData["SuccessMessage"] != null)
+﻿@if (TempData["ErrorMassege"] != null ||
+				TempData["InfoMassege"] != null ||
+				TempData["WarningMassege"] != null ||
+				TempData["SuccessMassege"] != null)
 {
-	if(TempData["ErrorMessage"] != null)
+
+	if (TempData["SuccessMassege"] != null)
 	{
-        if (TempData["SuccessMessage"] != null)
-        {
-            <script>
-                $(document).ready(function () {
-                    ShowMessage('Success Message', '@TempData["SuccessMessage"]', 'success')
-                })
-            </script>
-        }
-        if (TempData["InfoMessage"] != null)
-        {
-            <script>
-                $(document).ready(function () {
-                    ShowMessage('Info Message', '@TempData["InfoMessage"]', 'info')
-                })
-            </script>
-        }
-        if (TempData["ErrorMessage"] != null)
-        {
-            <script>
-                $(document).ready(function () {
-                    ShowMessage('Error Message', '@TempData["ErrorMessage"]', 'error')
-                })
-            </script>
-        }
-        if (TempData["WarningMessage"] != null)
-        {
-            <script>
-                $(document).ready(function () {
-                    ShowMessage('Warning Message', '@TempData["WarningMessage"]', 'warning')
-                })
-            </script>
-        }
+		<script>
+			$(document).ready(function () {
+				ShowMessage('Success Message', '@TempData["SuccessMassege"]', 'success')
+			})
+		</script>
 	}
+	if (TempData["InfoMassege"] != null)
+	{
+		<script>
+			$(document).ready(function () {
+				ShowMessage('Info Message', '@TempData["InfoMassege"]', 'info')
+			})
+		</script>
+	}
+	if (TempData["ErrorMassege"] != null)
+	{
+		<script>
+			$(document).ready(function () {
+				ShowMessage('Error Message', '@TempData["ErrorMassege"]', 'error')
+			})
+		</script>
+	}
+	if (TempData["WarningMassege"] != null)
+	{
+		<script>
+			$(document).ready(function () {
+				ShowMessage('Warning Message', '@TempData["WarningMassege"]', 'warning')
+			})
+		</script>
+	}
+
 }

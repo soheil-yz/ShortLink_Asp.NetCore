@@ -23,8 +23,21 @@ namespace ShortLinkWeb.Controllers
         {
             if (ModelState.IsValid)
             {
+                var result = await _userService.RegisterUser(registerUser);
+                switch (result)
+                {
+                    case RegisterUserResult.IsMobileExist:
+                        TempData[ErrorMassege] = "The phone number entered is duplicate";
+                        ModelState.AddModelError("Modile", "The phone number entered is duplicate");
+                        break;
 
-            }
+					case RegisterUserResult.Success:
+						TempData[SuccessMassege] = "Register is Success";
+                        return Redirect("/");
+
+
+				}
+			}
             return View(registerUser);
         }
         [HttpGet("login")]

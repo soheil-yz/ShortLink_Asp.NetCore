@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ssNWUF3jyrBEkXPaRK4TsCKHPB3HNHQzTvfrTjAXsxQ=",
+  "Hash": "7aUEHDuptFWxvwgnw+RjcYrLJ1M/FKS/N9L5PTSMlDE=",
   "Source": "ShortLinkWeb",
   "BasePath": "_content/ShortLinkWeb",
   "Mode": "Default",
@@ -2466,6 +2466,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\js\\nice-select.js"
+    },
+    {
+      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\js\\notifications.js",
+      "SourceId": "ShortLinkWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "BasePath": "_content/ShortLinkWeb",
+      "RelativePath": "assets/js/notifications.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\js\\notifications.js"
     },
     {
       "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\js\\owl.min.js",

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ShortLink.Infra.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0b9ea4fb4767135f4c902f48234a6d34eb3bde88")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d6b1ddf9c4fbfd803ca198bcf094fa7bddc5c93a")]
 [assembly: System.Reflection.AssemblyProductAttribute("ShortLink.Infra.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ShortLink.Infra.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

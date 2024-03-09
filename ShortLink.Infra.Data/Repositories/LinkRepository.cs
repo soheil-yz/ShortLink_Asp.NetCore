@@ -1,4 +1,5 @@
-﻿using shortLink.Domain.Interface;
+﻿using Microsoft.EntityFrameworkCore;
+using shortLink.Domain.Interface;
 using shortLink.Domain.Models.Link;
 using ShortLink.Infra.Data.Context;
 using System;
@@ -42,6 +43,11 @@ namespace ShortLink.Infra.Data.Repositories
         {
             if (_context != null) 
                 await _context.DisposeAsync();
+        }
+
+        public ShortUrl FindUrlByToken(string token)
+        {
+            return  _context.ShortUrls.AsQueryable().SingleOrDefault(u => u.Token == token);   
         }
 
         public async Task SaveChange()

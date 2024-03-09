@@ -259,3 +259,4 @@ C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\Sho
 C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\ShortLink2\ShortLinkWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\ShortLink2\ShortLinkWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\ShortLink2\ShortLinkWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\ShortLink2\ShortLinkWeb\bin\Debug\net7.0\UAParser.dll

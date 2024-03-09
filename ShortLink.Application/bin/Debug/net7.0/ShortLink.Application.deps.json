@@ -9,6 +9,7 @@
       "ShortLink.Application/1.0.0": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore.Tools": "7.0.11",
+          "UAParser": "3.1.47",
           "shortLink.Domain": "1.0.0"
         },
         "runtime": {
@@ -213,6 +214,14 @@
           "System.Text.Encodings.Web": "7.0.0"
         }
       },
+      "UAParser/3.1.47": {
+        "runtime": {
+          "lib/netcoreapp2.0/UAParser.dll": {
+            "assemblyVersion": "3.1.47.0",
+            "fileVersion": "3.1.47.0"
+          }
+        }
+      },
       "shortLink.Domain/1.0.0": {
         "runtime": {
           "shortLink.Domain.dll": {}
@@ -372,6 +381,13 @@
       "sha512": "sha512-DaGSsVqKsn/ia6RG8frjwmJonfos0srquhw09TlT8KRw5I43E+4gs+/bZj4K0vShJ5H9imCuXupb4RmS+dBy3w==",
       "path": "system.text.json/7.0.0",
       "hashPath": "system.text.json.7.0.0.nupkg.sha512"
+    },
+    "UAParser/3.1.47": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-I68Jl/Vs5RQZdz9BbmYtnXgujg0jVd61LhKbyNZOCm9lBxZFGxLbiQo6yFj21VYi7DzPvEvrVOmeC6v41AoLfw==",
+      "path": "uaparser/3.1.47",
+      "hashPath": "uaparser.3.1.47.nupkg.sha512"
     },
     "shortLink.Domain/1.0.0": {
       "type": "project",

@@ -82,6 +82,7 @@ namespace ShortLinkWeb
                 endpoints.MapControllerRoute(
                     name: "default",
                     pattern: "{controller=Home}/{action=Index}/{id?}");
+                endpoints.MapFallbackToController("Index" ,"Home");
             });
         }
         #region Ioc

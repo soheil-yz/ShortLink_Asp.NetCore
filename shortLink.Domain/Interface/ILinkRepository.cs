@@ -13,7 +13,7 @@ namespace shortLink.Domain.Interface
         Task AddOs(Os os);
         Task AddDevice(Device device);
         Task AddBrower(Browser browser);
-
+        ShortUrl FindUrlByToken(string token);
         Task SaveChange();
 
     }

@@ -17,16 +17,27 @@ namespace ShortLinkWeb.Middelware
             _next = next;
         }
 
-        public Task Invoke(HttpContext httpContext)
+        public async Task Invoke(HttpContext httpContext)
         {
             _linkService = (ILinkService)httpContext.RequestServices.GetService(typeof(ILinkService));
             var userAgent = StringValues.Empty;
             httpContext.Request.Headers.TryGetValue("User-Agent", out userAgent);
             if(httpContext.Request.Path.ToString().Length == 6)
             {
-                _linkService.AddUserAgent(userAgent);
+                await _linkService.AddUserAgent(userAgent);
+                var token = httpContext.Request.Path.ToString().Substring(1);
+                var shortUrl = _linkService.FindUrlByToken(token);
+                if(shortUrl != null)
+                {
+                    httpContext.Response.Redirect(shortUrl.orginalUrl.ToString());
+                }
+                else
+                {
+                    httpContext.Response.Redirect(httpContext.Request.Host.ToString());
+                }
+
             }
-            return _next(httpContext);
+            await _next(httpContext);
         }
     }
 

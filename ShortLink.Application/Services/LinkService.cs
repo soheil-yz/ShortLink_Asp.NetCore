@@ -38,10 +38,12 @@ namespace ShortLink.Application.Services
             {
                 Family = client.OS.Family,
                 Major = client.OS.Major,
-                Minor = client.OS.Minor,
+                //Minor = client.OS.Minor,
+                Minor = "hi",
                 CreateData = DateTime.Now,
             };
-            //todo : Add to DataBase
+            await _repository.AddOs(Os);
+            //await _repository.SaveChange();
             var device = new shortLink.Domain.Models.Link.Device
             {
                 IsBot = client.Device.IsSpider,
@@ -50,7 +52,8 @@ namespace ShortLink.Application.Services
                 Model = client.Device.Model,    
                 CreateData = DateTime.Now
             };
-            //todo : Add to DataBase
+            await _repository.AddDevice(device);
+
             var brower = new Browser 
             {  
              Family = client.UA.Family,
@@ -58,7 +61,13 @@ namespace ShortLink.Application.Services
              Minor = client.UA.Minor,
              CreateData = DateTime.Now,
             };
+            await _repository.AddBrower(brower);
 
+        }
+
+        public ShortUrl FindUrlByToken(string token)
+        {
+            return _repository.FindUrlByToken(token);
         }
 
         public ShortUrl QuickShortUrl(Uri uri)
@@ -67,7 +76,7 @@ namespace ShortLink.Application.Services
             shortUrl.orginalUrl = uri;
             shortUrl.CreateData = DateTime.Now;
             shortUrl.Token = Generate.Token();
-            shortUrl.Value = new Uri($"http://localhost:44356/{shortUrl.Token}");
+            shortUrl.Value = new Uri($"https://localhost:44356/{shortUrl.Token}");
             return shortUrl;
 
 

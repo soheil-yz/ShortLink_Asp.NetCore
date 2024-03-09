@@ -2765,6 +2765,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "UAParser": "3.1.47",
           "shortLink.Domain": "1.0.0"
         },
         "compile": {

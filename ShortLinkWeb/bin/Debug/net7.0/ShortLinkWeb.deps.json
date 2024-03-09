@@ -17,6 +17,7 @@
           "ShortLink.Application": "1.0.0",
           "ShortLink.Infra.Data": "1.0.0",
           "ShortLink.Infra.Ioc": "1.0.0",
+          "UAParser": "3.1.47",
           "shortLink.Domain": "1.0.0",
           "toastr": "2.1.1"
         },
@@ -1919,8 +1920,17 @@
           "jQuery": "1.6.3"
         }
       },
+      "UAParser/3.1.47": {
+        "runtime": {
+          "lib/netcoreapp2.0/UAParser.dll": {
+            "assemblyVersion": "3.1.47.0",
+            "fileVersion": "3.1.47.0"
+          }
+        }
+      },
       "ShortLink.Application/1.0.0": {
         "dependencies": {
+          "UAParser": "3.1.47",
           "shortLink.Domain": "1.0.0"
         },
         "runtime": {
@@ -3097,6 +3107,13 @@
       "sha512": "sha512-h/688XvzYk1xVYn213ryU+HCElE4n/drYzAHJkAi9LsSUPS3EbI6wGlvCglBUt7i4h5iESgAVarYaigjQmVpqg==",
       "path": "toastr/2.1.1",
       "hashPath": "toastr.2.1.1.nupkg.sha512"
+    },
+    "UAParser/3.1.47": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-I68Jl/Vs5RQZdz9BbmYtnXgujg0jVd61LhKbyNZOCm9lBxZFGxLbiQo6yFj21VYi7DzPvEvrVOmeC6v41AoLfw==",
+      "path": "uaparser/3.1.47",
+      "hashPath": "uaparser.3.1.47.nupkg.sha512"
     },
     "ShortLink.Application/1.0.0": {
       "type": "project",

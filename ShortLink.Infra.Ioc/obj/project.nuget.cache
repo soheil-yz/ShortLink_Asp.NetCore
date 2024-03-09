@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "jJ8+38UNBOjo2fd/15mxQ+r2d1+eHrwoQMB1X4k0d9vouTyvtWIGKTe/P/Ckt+lECCzLxqm8SnYcO0lRVVipeg==",
+  "dgSpecHash": "34Iw4t0ny2ZLI7z+4lchfsNqICr2nBey6dm7T1a/g38cjaTLsi/PPK+mu9w0rCj4HATPILq5dlieBXc28MhQ/w==",
   "success": true,
   "projectFilePath": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLink.Infra.Ioc\\ShortLink.Infra.Ioc.csproj",
   "expectedPackageFiles": [
@@ -61,7 +61,8 @@
     "C:\\Users\\sohei\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
     "C:\\Users\\sohei\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512",
     "C:\\Users\\sohei\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
-    "C:\\Users\\sohei\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
+    "C:\\Users\\sohei\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512",
+    "C:\\Users\\sohei\\.nuget\\packages\\uaparser\\3.1.47\\uaparser.3.1.47.nupkg.sha512"
   ],
   "logs": []
 }

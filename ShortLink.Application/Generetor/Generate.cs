@@ -18,7 +18,7 @@ namespace ShortLink.Application.Generetor
                 ToList().
                 ForEach(i => random += Convert.ToChar(i));
 
-            return random.Substring(new Random().Next(0, random.Length - 8) - 8);
+            return random.Substring(new Random().Next(0, random.Length - 8) , 5);
         }
     }
 }

@@ -12,4 +12,10 @@ namespace ShortLink.Application.DTOs.Links
         [Required] 
         public  string OrginalUrl { get; set; }
     }
+    public enum UrlRequestResult
+    {
+        Success,
+        Error
+    }
+
 }

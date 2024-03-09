@@ -1,4 +1,5 @@
 ﻿using shortLink.Domain.Interface;
+using shortLink.Domain.Models.Link;
 using ShortLink.Infra.Data.Context;
 using System;
 using System.Collections.Generic;
@@ -15,6 +16,11 @@ namespace ShortLink.Infra.Data.Repositories
         public LinkRepository(ShortLinkContext context)
         {
             _context = context;
+        }
+
+        public async Task AddLink(ShortUrl url)
+        {
+            await _context.AddAsync(url);
         }
 
         public async ValueTask DisposeAsync()

@@ -22,11 +22,12 @@
                 <span asp-validation-for="OrginalUrl" class="text-danger"></span>
                 <button type="submit"> get link! <i class="flaticon-startup"></i></button>
             </form>
-
-            <div class="alert alert-success">
-                
-            </div>
-            
+            @if (ViewBag.IsSuccess != null)
+            {
+                <div class="alert alert-success">
+                    @ViewBag.UserShortLink
+                </div>
+            }
         </div>
     </div>
 </section>

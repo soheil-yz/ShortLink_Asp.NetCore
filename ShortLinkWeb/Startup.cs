@@ -11,6 +11,7 @@ using System.Text.Encodings.Web;
 using System.Text.Unicode;
 using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.Extensions.Primitives;
+using ShortLinkWeb.Middelware;
 
 
 namespace ShortLinkWeb
@@ -74,13 +75,8 @@ namespace ShortLinkWeb
 
             app.UseAuthorization();
             app.UseAuthentication();
-            app.Use(async (context, next) =>
-            {
-                var userAgent = StringValues.Empty;
-                context.Request.Headers.TryGetValue("User-Agent", out userAgent);
 
-                await next();
-            });
+            app.UseShortLinkUrlRedirect();
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllerRoute(

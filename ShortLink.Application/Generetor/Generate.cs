@@ -6,13 +6,13 @@ using System.Threading.Tasks;
 
 namespace ShortLink.Application.Generetor
 {
-    public class Generate
+    public static class Generate
     {
         public static string Token()
         {
             string random = string.Empty;
 
-            Enumerable.Range(48, 57).
+            Enumerable.Range(48, 75).
                 Where(i => i < 58 || i > 64 && i < 91 || i > 96).
                 OrderBy(i => new Random().Next()).
                 ToList().

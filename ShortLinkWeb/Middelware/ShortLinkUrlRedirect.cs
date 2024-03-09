@@ -22,6 +22,10 @@ namespace ShortLinkWeb.Middelware
             _linkService = (ILinkService)httpContext.RequestServices.GetService(typeof(ILinkService));
             var userAgent = StringValues.Empty;
             httpContext.Request.Headers.TryGetValue("User-Agent", out userAgent);
+            if(httpContext.Request.Path.ToString().Length == 6)
+            {
+                _linkService.AddUserAgent(userAgent);
+            }
             return _next(httpContext);
         }
     }

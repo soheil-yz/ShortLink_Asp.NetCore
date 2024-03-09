@@ -12,5 +12,6 @@ namespace ShortLink.Application.Interfaces
     {
         ShortUrl QuickShortUrl (Uri uri);
         Task<UrlRequestResult> AddLink(ShortUrl url); 
+         Task AddUserAgent(string userAgent);
     }
 }

@@ -8,6 +8,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using UAParser;
 
 namespace ShortLink.Application.Services
 {
@@ -26,6 +27,38 @@ namespace ShortLink.Application.Services
             await _repository.AddLink(url);
             await _repository.SaveChange();
             return UrlRequestResult.Success;    
+        }
+
+        public async Task AddUserAgent(string userAgent)
+        {
+            var uaParser = Parser.GetDefault();
+            ClientInfo client = uaParser.Parse(userAgent);
+
+            var Os = new Os
+            {
+                Family = client.OS.Family,
+                Major = client.OS.Major,
+                Minor = client.OS.Minor,
+                CreateData = DateTime.Now,
+            };
+            //todo : Add to DataBase
+            var device = new shortLink.Domain.Models.Link.Device
+            {
+                IsBot = client.Device.IsSpider,
+                Brand = client.Device.Brand,
+                Family = client.Device.Family,
+                Model = client.Device.Model,    
+                CreateData = DateTime.Now
+            };
+            //todo : Add to DataBase
+            var brower = new Browser 
+            {  
+             Family = client.UA.Family,
+             Major = client.UA.Major,
+             Minor = client.UA.Minor,
+             CreateData = DateTime.Now,
+            };
+
         }
 
         public ShortUrl QuickShortUrl(Uri uri)

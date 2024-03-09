@@ -18,9 +18,24 @@ namespace ShortLink.Infra.Data.Repositories
             _context = context;
         }
 
+        public async Task AddBrower(Browser browser)
+        {
+            await _context.Browsers.AddAsync(browser);
+        }
+
+        public async Task AddDevice(Device device)
+        {
+            await _context.Devices.AddAsync(device);
+        }
+
         public async Task AddLink(ShortUrl url)
         {
-            await _context.AddAsync(url);
+            await _context.ShortUrls.AddAsync(url);
+        }
+
+        public async Task AddOs(Os os)
+        {
+            await _context.Os.AddAsync(os);
         }
 
         public async ValueTask DisposeAsync()

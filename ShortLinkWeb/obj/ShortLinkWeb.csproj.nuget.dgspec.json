@@ -397,6 +397,10 @@
               "target": "Package",
               "version": "[7.0.12, )"
             },
+            "UAParser": {
+              "target": "Package",
+              "version": "[3.1.47, )"
+            },
             "toastr": {
               "target": "Package",
               "version": "[2.1.1, )"

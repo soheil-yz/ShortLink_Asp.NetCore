@@ -10,7 +10,7 @@ namespace shortLink.Domain.Models.Link
 {
     public class Device : BaseEntitiy
     {
-        public bool IsbBot { get; set; }
+        public bool IsBot { get; set; }
 
         [Required]
         [MaxLength(255)]

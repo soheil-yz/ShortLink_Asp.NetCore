@@ -10,6 +10,10 @@ namespace shortLink.Domain.Interface
     public interface ILinkRepository : IAsyncDisposable
     {
         Task AddLink(ShortUrl url);
+        Task AddOs(Os os);
+        Task AddDevice(Device device);
+        Task AddBrower(Browser browser);
+
         Task SaveChange();
 
     }

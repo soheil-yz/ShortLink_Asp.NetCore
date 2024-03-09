@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "RGw5AWSKVTcVBcd4lkbIwd+5GCbOadjFBRSR73JLXF0qYUZ85dazR6f/lL8pSsCFSy4Pwu+n9LxvbBhkShhk8Q==",
+  "dgSpecHash": "VEmB9mHPrBX1AdModrIdGIwOJukzuzETF9gkbo97VdN3HX5jWou53i8V/EfIU+wsdoGRlel5VHqmrQMcIGfalA==",
   "success": true,
   "projectFilePath": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\ShortLinkWeb.csproj",
   "expectedPackageFiles": [
@@ -165,7 +165,8 @@
     "C:\\Users\\sohei\\.nuget\\packages\\system.threading.tasks.dataflow\\6.0.0\\system.threading.tasks.dataflow.6.0.0.nupkg.sha512",
     "C:\\Users\\sohei\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\sohei\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512",
-    "C:\\Users\\sohei\\.nuget\\packages\\toastr\\2.1.1\\toastr.2.1.1.nupkg.sha512"
+    "C:\\Users\\sohei\\.nuget\\packages\\toastr\\2.1.1\\toastr.2.1.1.nupkg.sha512",
+    "C:\\Users\\sohei\\.nuget\\packages\\uaparser\\3.1.47\\uaparser.3.1.47.nupkg.sha512"
   ],
   "logs": []
 }

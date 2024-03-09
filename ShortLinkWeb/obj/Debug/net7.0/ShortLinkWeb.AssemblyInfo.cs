@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ShortLinkWeb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d477dfff5f3f5fcf3b6c455c1a5647a96eeb2c3a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d622569601fc7e88ffde49cebbde4b3bb40bfe09")]
 [assembly: System.Reflection.AssemblyProductAttribute("ShortLinkWeb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ShortLinkWeb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

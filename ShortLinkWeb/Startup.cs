@@ -1,6 +1,5 @@
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -8,14 +7,10 @@ using Microsoft.Extensions.Hosting;
 using ShortLink.Infra.Data.Context;
 using ShortLink.Infra.Ioc;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.EntityFrameworkCore.Design;
-using ShortLink.Infra.Ioc;
 using System.Text.Encodings.Web;
 using System.Text.Unicode;
 using Microsoft.AspNetCore.Authentication.Cookies;
+using Microsoft.Extensions.Primitives;
 
 
 namespace ShortLinkWeb
@@ -79,6 +74,13 @@ namespace ShortLinkWeb
 
             app.UseAuthorization();
             app.UseAuthentication();
+            app.Use(async (context, next) =>
+            {
+                var userAgent = StringValues.Empty;
+                context.Request.Headers.TryGetValue("User-Agent", out userAgent);
+
+                await next();
+            });
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllerRoute(

@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\ShortLink2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C84D98DC-79F5-405A-BEF5-30018DD43434}|ShortLinkWeb\\ShortLinkWeb.csproj|c:\\users\\sohei\\onedrive\\desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\shortlink2\\shortlinkweb\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C84D98DC-79F5-405A-BEF5-30018DD43434}|ShortLinkWeb\\ShortLinkWeb.csproj|solutionrelative:shortlinkweb\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CFEAD826-0DF0-4B45-82CE-905E53C179B3}|ShortLink.Application\\ShortLink.Application.csproj|c:\\users\\sohei\\onedrive\\desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\shortlink2\\shortlink.application\\generetor\\generate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CFEAD826-0DF0-4B45-82CE-905E53C179B3}|ShortLink.Application\\ShortLink.Application.csproj|solutionrelative:shortlink.application\\generetor\\generate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -23,12 +27,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\ShortLink2\\ShortLinkWeb\\Startup.cs",
+              "RelativeDocumentMoniker": "ShortLinkWeb\\Startup.cs",
+              "ToolTip": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\ShortLink2\\ShortLinkWeb\\Startup.cs",
+              "RelativeToolTip": "ShortLinkWeb\\Startup.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAkwE8AAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T07:41:59.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Generate.cs",
               "DocumentMoniker": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\ShortLink2\\ShortLink.Application\\Generetor\\Generate.cs",
               "RelativeDocumentMoniker": "ShortLink.Application\\Generetor\\Generate.cs",
               "ToolTip": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\ShortLink2\\ShortLink.Application\\Generetor\\Generate.cs",
               "RelativeToolTip": "ShortLink.Application\\Generetor\\Generate.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAABRAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-08T18:53:40.706Z",
               "EditorCaption": ""

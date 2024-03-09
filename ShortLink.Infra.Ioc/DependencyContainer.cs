@@ -16,11 +16,13 @@ namespace ShortLink.Infra.Ioc
         {
             #region repository
             services.AddScoped<IUserRepository, UserRepository>();
+            services.AddScoped<ILinkRepository, LinkRepository>();
 
             #endregion
 
             #region service
             services.AddScoped<IUserService, UserService>();
+            services.AddScoped<ILinkService, LinkService>();
             #endregion
 
 

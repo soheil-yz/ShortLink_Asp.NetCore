@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ShortLink.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c3cac8d0bb1fb0da7d6f7b1b1cf278445b04322e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e91ed0a3a8f3d3a5335dffe1fff6d1b5199c03a")]
 [assembly: System.Reflection.AssemblyProductAttribute("ShortLink.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ShortLink.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

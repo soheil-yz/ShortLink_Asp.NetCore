@@ -1,7 +1,11 @@
-﻿@{
+﻿@model ShortLink.Application.DTOs.Links.UrlRequestDto
+@{
     ViewData["Title"] = "Home Page | صفحه ی اصلی ";
 }
 
+@section scripts{
+    <partial name="_ValidationScriptsPartial" />
+}
 <section class="banner-section">
     <div class="banner-bg bg_img" style="background-color: #2c18b4">
         <div class="banner-bg-shape"><img src="./assets/images/banner/banner-shape.png" alt="banner"></div>
@@ -13,8 +17,9 @@
         <div class="banner-content"></div>
         <div class="banner-form-group">
             <h3 class="subtitle">We will help you to make your link beautiful</h3>
-            <form class="banner-form" asp-action="Index" method="post">
-                <input type="text" placeholder="Your URL here" />
+            <form class="banner-form" asp-controller="Home" asp-action="Index" method="post">
+                <input asp-for="OrginalUrl" placeholder="Your URL here" />
+                <span asp-validation-for="OrginalUrl" class="text-danger"></span>
                 <button type="submit"> get link! <i class="flaticon-startup"></i></button>
             </form>
 

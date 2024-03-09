@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
+using ShortLink.Application.DTOs.Links;
 using ShortLinkWeb.Models;
 using System;
 using System.Collections.Generic;
@@ -14,6 +15,14 @@ namespace ShortLinkWeb.Controllers
 
         public IActionResult Index()
         {
+            return View();
+        }        
+        public IActionResult Index(UrlRequestDto urlRequest)
+        {
+            if(ModelState.IsValid)
+            {
+
+            }
             return View();
         }
 

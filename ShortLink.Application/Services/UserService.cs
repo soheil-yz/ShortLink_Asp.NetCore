@@ -30,6 +30,8 @@ namespace ShortLink.Application.Services
                     MobileActiceCode = new Random().Next(10000,999999999).ToString(),
                     LastUpDateData = DateTime.Now,
                     CreateData = DateTime.Now,
+                    IsAdmin
+                    = false
                 };
                 await _userRepository.AddUser(user);
                 await _userRepository.SaveChange();

@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using ShortLink.Infra.Data.Context;
 
@@ -11,9 +12,11 @@ using ShortLink.Infra.Data.Context;
 namespace ShortLink.Infra.Data.Migrations
 {
     [DbContext(typeof(ShortLinkContext))]
-    partial class ShortLinkContextModelSnapshot : ModelSnapshot
+    [Migration("20240311150321_AddIsAdmin")]
+    partial class AddIsAdmin
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

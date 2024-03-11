@@ -30,6 +30,7 @@ namespace shortLink.Domain.Models.Account
         [MaxLength(20 ,ErrorMessage ="Long Strig")]
         public string MobileActiceCode { get; set; }
         public bool IsMobileActive { get; set; }
-        public bool IsBlock { get; set; }
+        public bool IsBlock { get; set; }   
+        public bool IsAdmin { get; set; }
     }
 }

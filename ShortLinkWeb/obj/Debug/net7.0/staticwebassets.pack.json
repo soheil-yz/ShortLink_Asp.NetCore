@@ -1,6 +1,10 @@
 {
   "Files": [
     {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\Admin\\css\\custom.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\custom.css"
+    },
+    {
       "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\css\\Flaticon.eot",
       "PackagePath": "staticwebassets\\assets\\css\\Flaticon.eot"
     },

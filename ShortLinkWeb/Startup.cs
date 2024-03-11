@@ -28,6 +28,8 @@ namespace ShortLinkWeb
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
+            services.AddRazorPages();
+            services.AddMvc();
             #region Ioc
             RegisterService(services);
             #endregion
@@ -70,20 +72,24 @@ namespace ShortLinkWeb
             }
             app.UseHttpsRedirection();
             app.UseStaticFiles();
-
             app.UseRouting();
-
             app.UseAuthorization();
             app.UseAuthentication();
-
             app.UseShortLinkUrlRedirect();
+
+
             app.UseEndpoints(endpoints =>
             {
+                endpoints.MapFallbackToController("Index", "Home");
                 endpoints.MapControllerRoute(
                     name: "default",
                     pattern: "{controller=Home}/{action=Index}/{id?}");
-                endpoints.MapFallbackToController("Index" ,"Home");
+                endpoints.MapControllerRoute(
+                  name: "areas",
+                  pattern: "{area:exists}/{controller=Home}/{action=Index}/{id?}"
+                );
             });
+
         }
         #region Ioc
         public static void RegisterService(IServiceCollection services)

@@ -22,7 +22,7 @@ namespace ShortLinkWeb.Middelware
             _linkService = (ILinkService)httpContext.RequestServices.GetService(typeof(ILinkService));
             var userAgent = StringValues.Empty;
             httpContext.Request.Headers.TryGetValue("User-Agent", out userAgent);
-            if(httpContext.Request.Path.ToString().Length == 6)
+            if(httpContext.Request.Path.ToString().Length == 5)
             {
                 await _linkService.AddUserAgent(userAgent);
                 var token = httpContext.Request.Path.ToString().Substring(1);

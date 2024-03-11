@@ -67,10 +67,11 @@ namespace ShortLinkWeb.Controllers
                         break;
                     case LoginUserResult.Success:
                         var user = await _userService.GetUserByMobile(loginUser.Mobile);
-                        var claims = new List<Claim> 
+                        var claims = new List<Claim>
                         {
                             new Claim(ClaimTypes.Name,user.Mobile),
                             new Claim(ClaimTypes.NameIdentifier,user.Id.ToString()),
+                            new Claim("IsAdmin" , user.IsAdmin.ToString())
                         };
                         var identoty = new  ClaimsIdentity(claims,CookieAuthenticationDefaults.AuthenticationScheme);
                         var principle = new ClaimsPrincipal(identoty);

@@ -12,6 +12,7 @@ using System.Text.Unicode;
 using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.Extensions.Primitives;
 using ShortLinkWeb.Middelware;
+using System.Security.Claims;
 
 
 namespace ShortLinkWeb
@@ -77,6 +78,24 @@ namespace ShortLinkWeb
             app.UseAuthentication();
             app.UseShortLinkUrlRedirect();
 
+            app.Use(async (context, next) =>
+            {
+                if (context.Request.Path.StartsWithSegments("/myadmin"))
+                {
+                    if (!context.User.Identity.IsAuthenticated)
+                    {
+                        context.Response.Redirect("/login");
+                    }
+                    else if (!bool.Parse(context.User.FindFirstValue("IsAdmin")))
+                    {
+                        context.Response.Redirect("/login");
+                    }
+
+
+                }
+
+                await next.Invoke();
+            });
 
             app.UseEndpoints(endpoints =>
             {

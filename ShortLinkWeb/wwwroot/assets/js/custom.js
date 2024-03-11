@@ -7,7 +7,7 @@
         showDuration: 4000,
         theme: theme !== '' ? theme : 'success'
     })({
-        title: title !== '' ? title : 'اعلان',
+        title: title !== '' ? title : 'Notification',
         message: decodeURI(text)
     })
 

@@ -90,6 +90,7 @@ namespace ShortLinkWeb.Controllers
        public async Task<IActionResult> Logout()
         {
             await HttpContext.SignOutAsync();
+            TempData[SuccessMassege] = "Your Account LogOut Now";
             return RedirectToAction("index", "Home");
         }
     }

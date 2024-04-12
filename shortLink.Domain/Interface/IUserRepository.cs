@@ -1,4 +1,5 @@
 ﻿using shortLink.Domain.Models.Account;
+using shortLink.Domain.ViewModel.Account;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -13,5 +14,6 @@ namespace shortLink.Domain.Interface
         Task SaveChange();
         Task<bool> IsExistMobile(string mobile);
         Task<User> GetUserByMobile(string mobile);
+        Task<List<UserForShowViewModel>> GetAllUsersForShow(); 
     }
 }

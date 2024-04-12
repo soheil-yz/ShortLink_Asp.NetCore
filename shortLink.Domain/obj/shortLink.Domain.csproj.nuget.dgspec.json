@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\shortLink.Domain\\shortLink.Domain.csproj": {}
+    "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\shortLink.Domain\\shortLink.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\shortLink.Domain\\shortLink.Domain.csproj": {
+    "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\shortLink.Domain\\shortLink.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\shortLink.Domain\\shortLink.Domain.csproj",
+        "projectUniqueName": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\shortLink.Domain\\shortLink.Domain.csproj",
         "projectName": "shortLink.Domain",
-        "projectPath": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\shortLink.Domain\\shortLink.Domain.csproj",
+        "projectPath": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\shortLink.Domain\\shortLink.Domain.csproj",
         "packagesPath": "C:\\Users\\sohei\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\shortLink.Domain\\obj\\",
+        "outputPath": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\shortLink.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sohei\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -56,6 +56,20 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.16, 7.0.16]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.16, 7.0.16]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.16, 7.0.16]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"

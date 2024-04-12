@@ -1,0 +1,70 @@
+﻿@using shortLink.Domain.ViewModel.Account
+@model List<UserForShowViewModel>
+@{
+    ViewData["Title"] = "لیست کاربران";
+}
+<div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
+    <h1 class="h2">@ViewData["Title"]</h1>
+    <div class="btn-toolbar mb-2 mb-md-0">
+        <div class="btn-group me-2">
+            <button type="button" class="btn btn-sm btn-outline-secondary"> ایجاد کاربر</button>
+        </div>
+    </div>
+</div>
+
+@if (Model != null && Model.Any())
+{
+    <table class="table table-hover">
+        <thead>
+            <tr>
+                <th>شناسه کاربری</th>
+                <th>نام</th>
+                <th>نام خانوادگی</th>
+                <th>تلفن همراه</th>
+                <th>ادمین هست / نیست</th>
+                <th>بلام هست /نیست</th>
+                <th>دستورات</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var user in Model)
+            {
+                <tr>
+                    <td>@user.Id</td>
+                    <td>@user.FirstName</td>
+                    <td>@user.LastName</td>
+                    <td>@user.Mobile</td>
+                    <td>
+                        @if (user.IsAdmin)
+                        {
+                            <p class="text-success">ادمین هست</p>
+                        }
+                        else
+                        {
+                            <p class="text-danger">ادمین نیست</p>
+                        }
+                    </td>
+                    <td>
+                        @if (!user.IsBlock)
+                        {
+                            <p class="text-success">بلاک نیست</p>
+                        }
+                        else
+                        {
+                            <p class="text-danger">بلاک هست</p>
+                        }
+                    </td>
+                    <td>
+                        <a class="btn btn-warning">ویرایش</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <div class="alert alert-warning">
+        <p>هیچ موردی وجود ندارد</p>
+    </div>
+}

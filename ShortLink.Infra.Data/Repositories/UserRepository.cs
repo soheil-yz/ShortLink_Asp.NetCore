@@ -1,6 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using shortLink.Domain.Interface;
 using shortLink.Domain.Models.Account;
+using shortLink.Domain.ViewModel.Account;
 using ShortLink.Infra.Data.Context;
 using System;
 using System.Collections.Generic;
@@ -27,6 +28,21 @@ namespace ShortLink.Infra.Data.Repositories
         {
             if(_context != null) 
                 await _context.DisposeAsync();
+        }
+
+        public async Task<List<UserForShowViewModel>> GetAllUsersForShow()
+        {
+            var Alluser = await _context.users.AsQueryable().Select(u => new UserForShowViewModel
+            {
+                Id = u.Id,
+                FirstName = u.FirstName,
+                LastName = u.LastName,
+                Mobile = u.Mobile,
+                IsAdmin = u.IsAdmin,
+                IsBlock = u.IsBlock,    
+
+            }).ToListAsync();
+            return Alluser;
         }
 
         public async Task<User> GetUserByMobile(string mobile)

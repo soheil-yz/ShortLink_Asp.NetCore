@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "YLdX3cfIfRmmJ0I2JCfkVyD8HN2L8tAFLljoWXuERRQ=",
+  "Hash": "CG6hUbgU75a5aDHMy7ViAPTUdCxOsMKILisZPyAhZB4=",
   "Source": "ShortLinkWeb",
   "BasePath": "_content/ShortLinkWeb",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "ShortLinkWeb\\wwwroot",
       "Source": "ShortLinkWeb",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\Admin\\css\\custom.css",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\Admin\\css\\custom.css",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "Admin/css/custom.css",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\Admin\\css\\custom.css"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\css\\all.min.css",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\css\\all.min.css",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/css/all.min.css",
       "AssetKind": "All",
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\all.min.css"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\css\\animate.css",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\css\\animate.css",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/css/animate.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\animate.css"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\css\\bootstrap.min.css",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\css\\flaticon.css",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\css\\flaticon.css",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/css/flaticon.css",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\flaticon.css"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\css\\Flaticon.eot",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\css\\Flaticon.eot",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/css/Flaticon.eot",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\Flaticon.eot"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\css\\flaticon.html",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\css\\flaticon.html",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/css/flaticon.html",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\flaticon.html"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\css\\Flaticon.svg",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\css\\Flaticon.svg",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/css/Flaticon.svg",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\Flaticon.svg"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\css\\Flaticon.ttf",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\css\\Flaticon.ttf",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/css/Flaticon.ttf",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\Flaticon.ttf"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\css\\Flaticon.woff",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\css\\Flaticon.woff",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/css/Flaticon.woff",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\Flaticon.woff"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\css\\Flaticon.woff2",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\css\\Flaticon.woff2",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/css/Flaticon.woff2",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\Flaticon.woff2"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\css\\img\\after.png",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\css\\img\\after.png",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/css/img/after.png",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\img\\after.png"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\css\\img\\before.png",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\css\\img\\before.png",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/css/img/before.png",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\img\\before.png"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\css\\img\\bottom-shape.png",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\css\\img\\bottom-shape.png",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/css/img/bottom-shape.png",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\img\\bottom-shape.png"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\css\\img\\faq.png",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\css\\img\\faq.png",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/css/img/faq.png",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\img\\faq.png"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\css\\img\\footer-dots.png",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\css\\img\\footer-dots.png",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/css/img/footer-dots.png",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\img\\footer-dots.png"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\css\\img\\shapes.png",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\css\\img\\shapes.png",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/css/img/shapes.png",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\img\\shapes.png"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\css\\img\\top-shape.png",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\css\\img\\top-shape.png",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/css/img/top-shape.png",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\img\\top-shape.png"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\css\\jquery-ui.min.css",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\css\\jquery-ui.min.css",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/css/jquery-ui.min.css",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\jquery-ui.min.css"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\css\\magnific-popup.css",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\css\\magnific-popup.css",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/css/magnific-popup.css",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\magnific-popup.css"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\css\\main.css",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\css\\main.css",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/css/main.css",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\main.css"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\css\\nice-select.css",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\css\\nice-select.css",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/css/nice-select.css",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\nice-select.css"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\css\\notifications.css",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\css\\notifications.css",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/css/notifications.css",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\notifications.css"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\css\\owl.min.css",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\css\\owl.min.css",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/css/owl.min.css",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\owl.min.css"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\fonts\\lightcase.eot",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\fonts\\lightcase.eot",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/fonts/lightcase.eot",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\lightcase.eot"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\fonts\\lightcase.svg",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\fonts\\lightcase.svg",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/fonts/lightcase.svg",
       "AssetKind": "All",
@@ -511,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\lightcase.svg"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\fonts\\lightcase.ttf",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\fonts\\lightcase.ttf",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/fonts/lightcase.ttf",
       "AssetKind": "All",
@@ -530,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\lightcase.ttf"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\fonts\\lightcase.woff",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\fonts\\lightcase.woff",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/fonts/lightcase.woff",
       "AssetKind": "All",
@@ -549,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\lightcase.woff"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\404\\404-bg.jpg",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\404\\404-bg.jpg",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/images/404/404-bg.jpg",
       "AssetKind": "All",
@@ -568,10 +568,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\404\\404-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\404\\man_01.png",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\404\\man_01.png",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/images/404/man_01.png",
       "AssetKind": "All",
@@ -587,10 +587,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\404\\man_01.png"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\404\\man_02.png",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\404\\man_02.png",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/images/404/man_02.png",
       "AssetKind": "All",
@@ -606,10 +606,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\404\\man_02.png"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\account-bg.jpg",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\account-bg.jpg",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/images/account-bg.jpg",
       "AssetKind": "All",
@@ -625,10 +625,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\account-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\balls\\1.png",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\balls\\1.png",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/images/balls/1.png",
       "AssetKind": "All",
@@ -644,10 +644,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\balls\\1.png"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\balls\\2.png",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\balls\\2.png",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/images/balls/2.png",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\balls\\2.png"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\balls\\3.png",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\balls\\3.png",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/images/balls/3.png",
       "AssetKind": "All",
@@ -682,10 +682,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\balls\\3.png"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\balls\\4.png",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\balls\\4.png",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/images/balls/4.png",
       "AssetKind": "All",
@@ -701,10 +701,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\balls\\4.png"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\balls\\5.png",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\balls\\5.png",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/images/balls/5.png",
       "AssetKind": "All",
@@ -720,10 +720,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\balls\\5.png"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\balls\\6.png",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\balls\\6.png",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/images/balls/6.png",
       "AssetKind": "All",
@@ -739,10 +739,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\balls\\6.png"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\balls\\7.png",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\balls\\7.png",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/images/balls/7.png",
       "AssetKind": "All",
@@ -758,10 +758,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\balls\\7.png"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\banner\\01.png",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\banner\\01.png",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/images/banner/01.png",
       "AssetKind": "All",
@@ -777,10 +777,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\banner\\01.png"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\banner\\02.png",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\banner\\02.png",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/images/banner/02.png",
       "AssetKind": "All",
@@ -796,10 +796,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\banner\\02.png"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\banner\\03.png",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\banner\\03.png",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/images/banner/03.png",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\banner\\03.png"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\banner\\banner-bg.jpg",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\banner\\banner-bg.jpg",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/images/banner/banner-bg.jpg",
       "AssetKind": "All",
@@ -834,10 +834,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\banner\\banner-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\banner\\banner-shape.png",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\banner\\banner-shape.png",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/images/banner/banner-shape.png",
       "AssetKind": "All",
@@ -853,10 +853,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\banner\\banner-shape.png"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\blog\\author.png",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\blog\\author.png",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/images/blog/author.png",
       "AssetKind": "All",
@@ -872,10 +872,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\blog\\author.png"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\blog\\author1.png",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\blog\\author1.png",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/images/blog/author1.png",
       "AssetKind": "All",
@@ -891,10 +891,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\blog\\author1.png"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\blog\\author2.png",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\blog\\author2.png",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/images/blog/author2.png",
       "AssetKind": "All",
@@ -910,10 +910,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\blog\\author2.png"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\blog\\author3.png",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\blog\\author3.png",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/images/blog/author3.png",
       "AssetKind": "All",
@@ -929,10 +929,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\blog\\author3.png"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\blog\\blog1.jpg",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\blog\\blog1.jpg",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/images/blog/blog1.jpg",
       "AssetKind": "All",
@@ -948,10 +948,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\blog\\blog1.jpg"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\blog\\blog2.jpg",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\blog\\blog2.jpg",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/images/blog/blog2.jpg",
       "AssetKind": "All",
@@ -967,10 +967,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\blog\\blog2.jpg"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\blog\\blog3.jpg",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\blog\\blog3.jpg",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/images/blog/blog3.jpg",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\blog\\blog3.jpg"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\blog\\blog4.jpg",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\blog\\blog4.jpg",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/images/blog/blog4.jpg",
       "AssetKind": "All",
@@ -1005,10 +1005,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\blog\\blog4.jpg"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\blog\\blog5.jpg",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\blog\\blog5.jpg",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/images/blog/blog5.jpg",
       "AssetKind": "All",
@@ -1024,10 +1024,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\blog\\blog5.jpg"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\blog\\blog6.jpg",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\blog\\blog6.jpg",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/images/blog/blog6.jpg",
       "AssetKind": "All",
@@ -1043,10 +1043,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\blog\\blog6.jpg"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\blog\\page-header.jpg",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\blog\\page-header.jpg",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/images/blog/page-header.jpg",
       "AssetKind": "All",
@@ -1062,10 +1062,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\blog\\page-header.jpg"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\blog\\slider01.png",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\blog\\slider01.png",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/images/blog/slider01.png",
       "AssetKind": "All",
@@ -1081,10 +1081,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\blog\\slider01.png"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\client\\circle1.png",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\client\\circle1.png",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/images/client/circle1.png",
       "AssetKind": "All",
@@ -1100,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\client\\circle1.png"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\client\\circle2.png",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\client\\circle2.png",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/images/client/circle2.png",
       "AssetKind": "All",
@@ -1119,10 +1119,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\client\\circle2.png"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\client\\client1.jpg",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\client\\client1.jpg",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/images/client/client1.jpg",
       "AssetKind": "All",
@@ -1138,10 +1138,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\client\\client1.jpg"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\client\\left.png",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\client\\left.png",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/images/client/left.png",
       "AssetKind": "All",
@@ -1157,10 +1157,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\client\\left.png"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\client\\right.png",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\client\\right.png",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/images/client/right.png",
       "AssetKind": "All",
@@ -1176,10 +1176,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\client\\right.png"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\favicon.png",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\favicon.png",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/images/favicon.png",
       "AssetKind": "All",
@@ -1195,10 +1195,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\favicon.png"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\feature\\01.png",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\feature\\01.png",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/images/feature/01.png",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\feature\\01.png"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\feature\\02.png",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\feature\\02.png",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/images/feature/02.png",
       "AssetKind": "All",
@@ -1233,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\feature\\02.png"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\feature\\03.png",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\feature\\03.png",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/images/feature/03.png",
       "AssetKind": "All",
@@ -1252,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\feature\\03.png"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\feature\\04.png",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\feature\\04.png",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/images/feature/04.png",
       "AssetKind": "All",
@@ -1271,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\feature\\04.png"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\feature\\05.png",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\feature\\05.png",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/images/feature/05.png",
       "AssetKind": "All",
@@ -1290,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\feature\\05.png"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\feature\\feature-bg.jpg",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\feature\\feature-bg.jpg",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/images/feature/feature-bg.jpg",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\feature\\feature-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\footer\\footer-bg.jpg",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\footer\\footer-bg.jpg",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/images/footer/footer-bg.jpg",
       "AssetKind": "All",
@@ -1328,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\footer\\footer-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\footer\\neteller.png",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\footer\\neteller.png",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/images/footer/neteller.png",
       "AssetKind": "All",
@@ -1347,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\footer\\neteller.png"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\footer\\paypal.png",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\footer\\paypal.png",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/images/footer/paypal.png",
       "AssetKind": "All",
@@ -1366,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\footer\\paypal.png"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\footer\\skrill.png",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\footer\\skrill.png",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/images/footer/skrill.png",
       "AssetKind": "All",
@@ -1385,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\footer\\skrill.png"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\footer\\wave.png",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\footer\\wave.png",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/images/footer/wave.png",
       "AssetKind": "All",
@@ -1404,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\footer\\wave.png"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\how\\how1.png",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\how\\how1.png",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/images/how/how1.png",
       "AssetKind": "All",
@@ -1423,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\how\\how1.png"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\how\\how2.png",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\how\\how2.png",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/images/how/how2.png",
       "AssetKind": "All",
@@ -1442,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\how\\how2.png"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\how\\how3.png",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\how\\how3.png",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/images/how/how3.png",
       "AssetKind": "All",
@@ -1461,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\how\\how3.png"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\icon\\google.png",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\icon\\google.png",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/images/icon/google.png",
       "AssetKind": "All",
@@ -1480,10 +1480,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\icon\\google.png"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\logo\\footer-logo.png",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\logo\\footer-logo.png",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/images/logo/footer-logo.png",
       "AssetKind": "All",
@@ -1499,10 +1499,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\logo\\footer-logo.png"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\logo\\logo.png",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\logo\\logo.png",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/images/logo/logo.png",
       "AssetKind": "All",
@@ -1518,10 +1518,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\logo\\logo.png"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\payout\\alg.png",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\payout\\alg.png",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/images/payout/alg.png",
       "AssetKind": "All",
@@ -1537,10 +1537,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\payout\\alg.png"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\payout\\bah.png",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\payout\\bah.png",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/images/payout/bah.png",
       "AssetKind": "All",
@@ -1556,10 +1556,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\payout\\bah.png"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\payout\\bra.png",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\payout\\bra.png",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/images/payout/bra.png",
       "AssetKind": "All",
@@ -1575,10 +1575,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\payout\\bra.png"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\payout\\canada.png",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\payout\\canada.png",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/images/payout/canada.png",
       "AssetKind": "All",
@@ -1594,10 +1594,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\payout\\canada.png"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\payout\\egypt.png",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\payout\\egypt.png",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/images/payout/egypt.png",
       "AssetKind": "All",
@@ -1613,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\payout\\egypt.png"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\payout\\france.png",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\payout\\france.png",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/images/payout/france.png",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\payout\\france.png"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\payout\\ger.png",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\payout\\ger.png",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/images/payout/ger.png",
       "AssetKind": "All",
@@ -1651,10 +1651,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\payout\\ger.png"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\payout\\icon1.png",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\payout\\icon1.png",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/images/payout/icon1.png",
       "AssetKind": "All",
@@ -1670,10 +1670,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\payout\\icon1.png"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\payout\\icon2.png",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\payout\\icon2.png",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/images/payout/icon2.png",
       "AssetKind": "All",
@@ -1689,10 +1689,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\payout\\icon2.png"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\payout\\italy.png",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\payout\\italy.png",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/images/payout/italy.png",
       "AssetKind": "All",
@@ -1708,10 +1708,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\payout\\italy.png"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\payout\\mexico.png",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\payout\\mexico.png",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/images/payout/mexico.png",
       "AssetKind": "All",
@@ -1727,10 +1727,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\payout\\mexico.png"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\payout\\spain.png",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\payout\\spain.png",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/images/payout/spain.png",
       "AssetKind": "All",
@@ -1746,10 +1746,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\payout\\spain.png"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\payout\\tuni.png",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\payout\\tuni.png",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/images/payout/tuni.png",
       "AssetKind": "All",
@@ -1765,10 +1765,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\payout\\tuni.png"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\payout\\turky.png",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\payout\\turky.png",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/images/payout/turky.png",
       "AssetKind": "All",
@@ -1784,10 +1784,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\payout\\turky.png"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\payout\\uae.png",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\payout\\uae.png",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/images/payout/uae.png",
       "AssetKind": "All",
@@ -1803,10 +1803,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\payout\\uae.png"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\payout\\uk.png",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\payout\\uk.png",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/images/payout/uk.png",
       "AssetKind": "All",
@@ -1822,10 +1822,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\payout\\uk.png"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\payout\\us.png",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\payout\\us.png",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/images/payout/us.png",
       "AssetKind": "All",
@@ -1841,10 +1841,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\payout\\us.png"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\publisher\\01.png",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\publisher\\01.png",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/images/publisher/01.png",
       "AssetKind": "All",
@@ -1860,10 +1860,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\publisher\\01.png"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\publisher\\02.png",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\publisher\\02.png",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/images/publisher/02.png",
       "AssetKind": "All",
@@ -1879,10 +1879,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\publisher\\02.png"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\publisher\\03.png",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\publisher\\03.png",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/images/publisher/03.png",
       "AssetKind": "All",
@@ -1898,10 +1898,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\publisher\\03.png"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\sponsor\\1.png",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\sponsor\\1.png",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/images/sponsor/1.png",
       "AssetKind": "All",
@@ -1917,10 +1917,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\sponsor\\1.png"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\sponsor\\2.png",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\sponsor\\2.png",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/images/sponsor/2.png",
       "AssetKind": "All",
@@ -1936,10 +1936,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\sponsor\\2.png"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\sponsor\\3.png",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\sponsor\\3.png",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/images/sponsor/3.png",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\sponsor\\3.png"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\sponsor\\4.png",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\sponsor\\4.png",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/images/sponsor/4.png",
       "AssetKind": "All",
@@ -1974,10 +1974,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\sponsor\\4.png"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\sponsor\\5.png",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\sponsor\\5.png",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/images/sponsor/5.png",
       "AssetKind": "All",
@@ -1993,10 +1993,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\sponsor\\5.png"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\sponsor\\6.png",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\sponsor\\6.png",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/images/sponsor/6.png",
       "AssetKind": "All",
@@ -2012,10 +2012,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\sponsor\\6.png"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\sponsor\\7.png",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\sponsor\\7.png",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/images/sponsor/7.png",
       "AssetKind": "All",
@@ -2031,10 +2031,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\sponsor\\7.png"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\sponsor\\8.png",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\sponsor\\8.png",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/images/sponsor/8.png",
       "AssetKind": "All",
@@ -2050,10 +2050,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\sponsor\\8.png"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\sponsor\\sponsor1.png",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\sponsor\\sponsor1.png",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/images/sponsor/sponsor1.png",
       "AssetKind": "All",
@@ -2069,10 +2069,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\sponsor\\sponsor1.png"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\sponsor\\sponsor2.png",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\sponsor\\sponsor2.png",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/images/sponsor/sponsor2.png",
       "AssetKind": "All",
@@ -2088,10 +2088,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\sponsor\\sponsor2.png"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\sponsor\\sponsor3.png",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\sponsor\\sponsor3.png",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/images/sponsor/sponsor3.png",
       "AssetKind": "All",
@@ -2107,10 +2107,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\sponsor\\sponsor3.png"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\sponsor\\sponsor4.png",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\sponsor\\sponsor4.png",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/images/sponsor/sponsor4.png",
       "AssetKind": "All",
@@ -2126,10 +2126,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\sponsor\\sponsor4.png"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\sponsor\\sponsor5.png",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\sponsor\\sponsor5.png",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/images/sponsor/sponsor5.png",
       "AssetKind": "All",
@@ -2145,10 +2145,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\sponsor\\sponsor5.png"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\sponsor\\sponsor6.png",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\sponsor\\sponsor6.png",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/images/sponsor/sponsor6.png",
       "AssetKind": "All",
@@ -2164,10 +2164,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\sponsor\\sponsor6.png"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\sponsor\\sponsor7.png",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\sponsor\\sponsor7.png",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/images/sponsor/sponsor7.png",
       "AssetKind": "All",
@@ -2183,10 +2183,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\sponsor\\sponsor7.png"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\why\\01.png",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\why\\01.png",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/images/why/01.png",
       "AssetKind": "All",
@@ -2202,10 +2202,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\why\\01.png"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\why\\02.png",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\why\\02.png",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/images/why/02.png",
       "AssetKind": "All",
@@ -2221,10 +2221,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\why\\02.png"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\why\\03.png",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\why\\03.png",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/images/why/03.png",
       "AssetKind": "All",
@@ -2240,10 +2240,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\why\\03.png"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\why\\04.png",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\images\\why\\04.png",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/images/why/04.png",
       "AssetKind": "All",
@@ -2259,10 +2259,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\why\\04.png"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\js\\bootstrap.min.js",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\js\\canvasjs.min.js",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\js\\canvasjs.min.js",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/js/canvasjs.min.js",
       "AssetKind": "All",
@@ -2297,10 +2297,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\canvasjs.min.js"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\js\\contact.js",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\js\\contact.js",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/js/contact.js",
       "AssetKind": "All",
@@ -2316,10 +2316,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\contact.js"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\js\\countdown.js",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\js\\countdown.js",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/js/countdown.js",
       "AssetKind": "All",
@@ -2335,10 +2335,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\countdown.js"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\js\\counterup.min.js",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\js\\counterup.min.js",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/js/counterup.min.js",
       "AssetKind": "All",
@@ -2354,10 +2354,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\counterup.min.js"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\js\\custom.js",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\js\\custom.js",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/js/custom.js",
       "AssetKind": "All",
@@ -2373,10 +2373,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\custom.js"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\js\\jquery-3.3.1.min.js",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\js\\jquery-3.3.1.min.js",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/js/jquery-3.3.1.min.js",
       "AssetKind": "All",
@@ -2392,10 +2392,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\jquery-3.3.1.min.js"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\js\\jquery-ui.min.js",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\js\\jquery-ui.min.js",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/js/jquery-ui.min.js",
       "AssetKind": "All",
@@ -2411,10 +2411,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\jquery-ui.min.js"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\js\\magnific-popup.min.js",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\js\\magnific-popup.min.js",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/js/magnific-popup.min.js",
       "AssetKind": "All",
@@ -2430,10 +2430,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\magnific-popup.min.js"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\js\\main.js",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\js\\main.js",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/js/main.js",
       "AssetKind": "All",
@@ -2449,10 +2449,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\main.js"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\js\\map.js",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\js\\map.js",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/js/map.js",
       "AssetKind": "All",
@@ -2468,10 +2468,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\map.js"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\js\\modernizr-3.6.0.min.js",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\js\\modernizr-3.6.0.min.js",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/js/modernizr-3.6.0.min.js",
       "AssetKind": "All",
@@ -2487,10 +2487,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\modernizr-3.6.0.min.js"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\js\\nice-select.js",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\js\\nice-select.js",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/js/nice-select.js",
       "AssetKind": "All",
@@ -2506,10 +2506,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\nice-select.js"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\js\\notifications.js",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\js\\notifications.js",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/js/notifications.js",
       "AssetKind": "All",
@@ -2525,10 +2525,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\notifications.js"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\js\\owl.min.js",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\js\\owl.min.js",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/js/owl.min.js",
       "AssetKind": "All",
@@ -2544,10 +2544,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\owl.min.js"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\js\\paroller.js",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\js\\paroller.js",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/js/paroller.js",
       "AssetKind": "All",
@@ -2563,10 +2563,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\paroller.js"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\js\\plugins.js",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\js\\plugins.js",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/js/plugins.js",
       "AssetKind": "All",
@@ -2582,10 +2582,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\plugins.js"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\js\\waypoints.js",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\js\\waypoints.js",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/js/waypoints.js",
       "AssetKind": "All",
@@ -2601,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\waypoints.js"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\js\\wow.min.js",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\js\\wow.min.js",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/js/wow.min.js",
       "AssetKind": "All",
@@ -2620,10 +2620,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\wow.min.js"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\sass\\_abstracts\\_mixins.scss",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\sass\\_abstracts\\_mixins.scss",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/sass/_abstracts/_mixins.scss",
       "AssetKind": "All",
@@ -2639,10 +2639,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\sass\\_abstracts\\_mixins.scss"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\sass\\_abstracts\\_variables.scss",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\sass\\_abstracts\\_variables.scss",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/sass/_abstracts/_variables.scss",
       "AssetKind": "All",
@@ -2658,10 +2658,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\sass\\_abstracts\\_variables.scss"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\sass\\_base\\_about.scss",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\sass\\_base\\_about.scss",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/sass/_base/_about.scss",
       "AssetKind": "All",
@@ -2677,10 +2677,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\sass\\_base\\_about.scss"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\sass\\_base\\_global.scss",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\sass\\_base\\_global.scss",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/sass/_base/_global.scss",
       "AssetKind": "All",
@@ -2696,10 +2696,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\sass\\_base\\_global.scss"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\sass\\_base\\_reset.scss",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\sass\\_base\\_reset.scss",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/sass/_base/_reset.scss",
       "AssetKind": "All",
@@ -2715,10 +2715,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\sass\\_base\\_reset.scss"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\sass\\_base\\_typography.scss",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\sass\\_base\\_typography.scss",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/sass/_base/_typography.scss",
       "AssetKind": "All",
@@ -2734,10 +2734,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\sass\\_base\\_typography.scss"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\sass\\_components\\_buttons.scss",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\sass\\_components\\_buttons.scss",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/sass/_components/_buttons.scss",
       "AssetKind": "All",
@@ -2753,10 +2753,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\sass\\_components\\_buttons.scss"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\sass\\_layout\\_animation.scss",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\sass\\_layout\\_animation.scss",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/sass/_layout/_animation.scss",
       "AssetKind": "All",
@@ -2772,10 +2772,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\sass\\_layout\\_animation.scss"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\sass\\_layout\\_banner.scss",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\sass\\_layout\\_banner.scss",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/sass/_layout/_banner.scss",
       "AssetKind": "All",
@@ -2791,10 +2791,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\sass\\_layout\\_banner.scss"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\sass\\_layout\\_blog.scss",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\sass\\_layout\\_blog.scss",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/sass/_layout/_blog.scss",
       "AssetKind": "All",
@@ -2810,10 +2810,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\sass\\_layout\\_blog.scss"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\sass\\_layout\\_footer.scss",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\sass\\_layout\\_footer.scss",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/sass/_layout/_footer.scss",
       "AssetKind": "All",
@@ -2829,10 +2829,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\sass\\_layout\\_footer.scss"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\sass\\_layout\\_forms.scss",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\sass\\_layout\\_forms.scss",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/sass/_layout/_forms.scss",
       "AssetKind": "All",
@@ -2848,10 +2848,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\sass\\_layout\\_forms.scss"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\sass\\_layout\\_header.scss",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\sass\\_layout\\_header.scss",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/sass/_layout/_header.scss",
       "AssetKind": "All",
@@ -2867,10 +2867,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\sass\\_layout\\_header.scss"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\sass\\_layout\\_section.scss",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\sass\\_layout\\_section.scss",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/sass/_layout/_section.scss",
       "AssetKind": "All",
@@ -2886,10 +2886,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\sass\\_layout\\_section.scss"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\sass\\_layout\\_sidebar.scss",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\sass\\_layout\\_sidebar.scss",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/sass/_layout/_sidebar.scss",
       "AssetKind": "All",
@@ -2905,10 +2905,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\sass\\_layout\\_sidebar.scss"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\sass\\main.scss",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\sass\\main.scss",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/sass/main.scss",
       "AssetKind": "All",
@@ -2924,10 +2924,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\sass\\main.scss"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\webfonts\\fa-brands-400.eot",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\webfonts\\fa-brands-400.eot",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/webfonts/fa-brands-400.eot",
       "AssetKind": "All",
@@ -2943,10 +2943,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\webfonts\\fa-brands-400.eot"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\webfonts\\fa-brands-400.svg",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\webfonts\\fa-brands-400.svg",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/webfonts/fa-brands-400.svg",
       "AssetKind": "All",
@@ -2962,10 +2962,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\webfonts\\fa-brands-400.svg"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\webfonts\\fa-brands-400.ttf",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\webfonts\\fa-brands-400.ttf",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/webfonts/fa-brands-400.ttf",
       "AssetKind": "All",
@@ -2981,10 +2981,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\webfonts\\fa-brands-400.ttf"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\webfonts\\fa-brands-400.woff",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\webfonts\\fa-brands-400.woff",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/webfonts/fa-brands-400.woff",
       "AssetKind": "All",
@@ -3000,10 +3000,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\webfonts\\fa-brands-400.woff"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\webfonts\\fa-brands-400.woff2",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\webfonts\\fa-brands-400.woff2",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/webfonts/fa-brands-400.woff2",
       "AssetKind": "All",
@@ -3019,10 +3019,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\webfonts\\fa-brands-400.woff2"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\webfonts\\fa-regular-400.eot",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\webfonts\\fa-regular-400.eot",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/webfonts/fa-regular-400.eot",
       "AssetKind": "All",
@@ -3038,10 +3038,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\webfonts\\fa-regular-400.eot"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\webfonts\\fa-regular-400.svg",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\webfonts\\fa-regular-400.svg",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/webfonts/fa-regular-400.svg",
       "AssetKind": "All",
@@ -3057,10 +3057,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\webfonts\\fa-regular-400.svg"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\webfonts\\fa-regular-400.ttf",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\webfonts\\fa-regular-400.ttf",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/webfonts/fa-regular-400.ttf",
       "AssetKind": "All",
@@ -3076,10 +3076,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\webfonts\\fa-regular-400.ttf"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\webfonts\\fa-regular-400.woff",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\webfonts\\fa-regular-400.woff",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/webfonts/fa-regular-400.woff",
       "AssetKind": "All",
@@ -3095,10 +3095,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\webfonts\\fa-regular-400.woff"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\webfonts\\fa-regular-400.woff2",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\webfonts\\fa-regular-400.woff2",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/webfonts/fa-regular-400.woff2",
       "AssetKind": "All",
@@ -3114,10 +3114,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\webfonts\\fa-regular-400.woff2"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\webfonts\\fa-solid-900.eot",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\webfonts\\fa-solid-900.eot",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/webfonts/fa-solid-900.eot",
       "AssetKind": "All",
@@ -3133,10 +3133,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\webfonts\\fa-solid-900.eot"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\webfonts\\fa-solid-900.svg",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\webfonts\\fa-solid-900.svg",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/webfonts/fa-solid-900.svg",
       "AssetKind": "All",
@@ -3152,10 +3152,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\webfonts\\fa-solid-900.svg"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\webfonts\\fa-solid-900.ttf",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\webfonts\\fa-solid-900.ttf",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/webfonts/fa-solid-900.ttf",
       "AssetKind": "All",
@@ -3171,10 +3171,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\webfonts\\fa-solid-900.ttf"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\webfonts\\fa-solid-900.woff",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\webfonts\\fa-solid-900.woff",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/webfonts/fa-solid-900.woff",
       "AssetKind": "All",
@@ -3190,10 +3190,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\webfonts\\fa-solid-900.woff"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\webfonts\\fa-solid-900.woff2",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\assets\\webfonts\\fa-solid-900.woff2",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "assets/webfonts/fa-solid-900.woff2",
       "AssetKind": "All",
@@ -3209,10 +3209,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\webfonts\\fa-solid-900.woff2"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\favicon.ico",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\favicon.ico",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -3228,10 +3228,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -3247,10 +3247,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -3266,10 +3266,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -3285,10 +3285,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -3304,10 +3304,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -3323,10 +3323,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -3342,10 +3342,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -3361,10 +3361,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -3380,10 +3380,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -3399,10 +3399,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -3418,10 +3418,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -3437,10 +3437,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -3456,10 +3456,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -3475,10 +3475,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -3494,10 +3494,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -3513,10 +3513,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -3532,10 +3532,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -3551,10 +3551,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -3570,10 +3570,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -3589,10 +3589,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -3608,10 +3608,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -3627,10 +3627,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -3646,10 +3646,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -3665,10 +3665,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -3684,10 +3684,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -3703,10 +3703,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -3722,10 +3722,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -3741,10 +3741,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -3760,10 +3760,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -3779,10 +3779,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -3798,10 +3798,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -3817,10 +3817,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -3836,10 +3836,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "ShortLinkWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
+      "ContentRoot": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\wwwroot\\",
       "BasePath": "_content/ShortLinkWeb",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",

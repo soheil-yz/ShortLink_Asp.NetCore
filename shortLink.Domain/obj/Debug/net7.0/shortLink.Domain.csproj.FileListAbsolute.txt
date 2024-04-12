@@ -9,3 +9,14 @@ C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\Sho
 C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\ShortLink2\shortLink.Domain\obj\Debug\net7.0\refint\shortLink.Domain.dll
 C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\ShortLink2\shortLink.Domain\obj\Debug\net7.0\shortLink.Domain.pdb
 C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\ShortLink2\shortLink.Domain\obj\Debug\net7.0\ref\shortLink.Domain.dll
+E:\ایمان تقوا وعمل صالح\csharp\ShortLink2\shortLink.Domain\bin\Debug\net7.0\shortLink.Domain.deps.json
+E:\ایمان تقوا وعمل صالح\csharp\ShortLink2\shortLink.Domain\bin\Debug\net7.0\shortLink.Domain.dll
+E:\ایمان تقوا وعمل صالح\csharp\ShortLink2\shortLink.Domain\bin\Debug\net7.0\shortLink.Domain.pdb
+E:\ایمان تقوا وعمل صالح\csharp\ShortLink2\shortLink.Domain\obj\Debug\net7.0\shortLink.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\ایمان تقوا وعمل صالح\csharp\ShortLink2\shortLink.Domain\obj\Debug\net7.0\shortLink.Domain.AssemblyInfoInputs.cache
+E:\ایمان تقوا وعمل صالح\csharp\ShortLink2\shortLink.Domain\obj\Debug\net7.0\shortLink.Domain.AssemblyInfo.cs
+E:\ایمان تقوا وعمل صالح\csharp\ShortLink2\shortLink.Domain\obj\Debug\net7.0\shortLink.Domain.csproj.CoreCompileInputs.cache
+E:\ایمان تقوا وعمل صالح\csharp\ShortLink2\shortLink.Domain\obj\Debug\net7.0\shortLink.Domain.dll
+E:\ایمان تقوا وعمل صالح\csharp\ShortLink2\shortLink.Domain\obj\Debug\net7.0\refint\shortLink.Domain.dll
+E:\ایمان تقوا وعمل صالح\csharp\ShortLink2\shortLink.Domain\obj\Debug\net7.0\shortLink.Domain.pdb
+E:\ایمان تقوا وعمل صالح\csharp\ShortLink2\shortLink.Domain\obj\Debug\net7.0\ref\shortLink.Domain.dll

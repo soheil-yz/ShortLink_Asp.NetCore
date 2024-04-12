@@ -99,7 +99,6 @@ namespace ShortLinkWeb
 
             app.UseEndpoints(endpoints =>
             {
-                endpoints.MapFallbackToController("Index", "Home");
                 endpoints.MapControllerRoute(
                     name: "default",
                     pattern: "{controller=Home}/{action=Index}/{id?}");
@@ -107,6 +106,7 @@ namespace ShortLinkWeb
                   name: "areas",
                   pattern: "{area:exists}/{controller=Home}/{action=Index}/{id?}"
                 );
+                endpoints.MapFallbackToController("Index", "Home");
             });
 
         }

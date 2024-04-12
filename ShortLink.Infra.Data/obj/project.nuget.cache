@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NAe81Axy5M08RImDT0HUuSEd4qRbwak0v11ZIwPWlwFXkIE1XBzwOvW/WZQXJtnitF1zneA6wd4sIR81H2+/7A==",
+  "dgSpecHash": "5p7eAou1l51XsvKPGOp6L0ryX8IaYKI2Ac0a3rDg9xiCshpnN09it9jVX8Lh7XtxGAF/ozxAyV+9bv+TQUJ0mw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLink.Infra.Data\\ShortLink.Infra.Data.csproj",
+  "projectFilePath": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLink.Infra.Data\\ShortLink.Infra.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sohei\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\sohei\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
@@ -67,7 +67,10 @@
     "C:\\Users\\sohei\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
     "C:\\Users\\sohei\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512",
     "C:\\Users\\sohei\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
-    "C:\\Users\\sohei\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
+    "C:\\Users\\sohei\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512",
+    "C:\\Users\\sohei\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\sohei\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\sohei\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512"
   ],
   "logs": []
 }

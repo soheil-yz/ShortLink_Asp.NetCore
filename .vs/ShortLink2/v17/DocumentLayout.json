@@ -1,26 +1,78 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\ShortLink2\\",
+  "WorkspaceRootPath": "E:\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\ShortLink2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C84D98DC-79F5-405A-BEF5-30018DD43434}|ShortLinkWeb\\ShortLinkWeb.csproj|c:\\users\\sohei\\onedrive\\desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\shortlink2\\shortlinkweb\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C84D98DC-79F5-405A-BEF5-30018DD43434}|ShortLinkWeb\\ShortLinkWeb.csproj|e:\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\shortlink2\\shortlinkweb\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C84D98DC-79F5-405A-BEF5-30018DD43434}|ShortLinkWeb\\ShortLinkWeb.csproj|solutionrelative:shortlinkweb\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C84D98DC-79F5-405A-BEF5-30018DD43434}|ShortLinkWeb\\ShortLinkWeb.csproj|e:\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\shortlink2\\shortlinkweb\\areas\\admin\\views\\shared\\_adminnavbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C84D98DC-79F5-405A-BEF5-30018DD43434}|ShortLinkWeb\\ShortLinkWeb.csproj|solutionrelative:shortlinkweb\\areas\\admin\\views\\shared\\_adminnavbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C84D98DC-79F5-405A-BEF5-30018DD43434}|ShortLinkWeb\\ShortLinkWeb.csproj|e:\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\shortlink2\\shortlinkweb\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C84D98DC-79F5-405A-BEF5-30018DD43434}|ShortLinkWeb\\ShortLinkWeb.csproj|solutionrelative:shortlinkweb\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C84D98DC-79F5-405A-BEF5-30018DD43434}|ShortLinkWeb\\ShortLinkWeb.csproj|e:\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\shortlink2\\shortlinkweb\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C84D98DC-79F5-405A-BEF5-30018DD43434}|ShortLinkWeb\\ShortLinkWeb.csproj|solutionrelative:shortlinkweb\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C84D98DC-79F5-405A-BEF5-30018DD43434}|ShortLinkWeb\\ShortLinkWeb.csproj|e:\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\shortlink2\\shortlinkweb\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C84D98DC-79F5-405A-BEF5-30018DD43434}|ShortLinkWeb\\ShortLinkWeb.csproj|solutionrelative:shortlinkweb\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C84D98DC-79F5-405A-BEF5-30018DD43434}|ShortLinkWeb\\ShortLinkWeb.csproj|e:\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\shortlink2\\shortlinkweb\\areas\\admin\\controllers\\adminbasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C84D98DC-79F5-405A-BEF5-30018DD43434}|ShortLinkWeb\\ShortLinkWeb.csproj|solutionrelative:shortlinkweb\\areas\\admin\\controllers\\adminbasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B89712F-5CC5-4991-845B-BE2A8D425CA5}|ShortLink.Infra.Data\\ShortLink.Infra.Data.csproj|e:\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\shortlink2\\shortlink.infra.data\\context\\shortlinkcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B89712F-5CC5-4991-845B-BE2A8D425CA5}|ShortLink.Infra.Data\\ShortLink.Infra.Data.csproj|solutionrelative:shortlink.infra.data\\context\\shortlinkcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0736755-A122-424B-908A-E442112B8412}|shortLink.Domain\\shortLink.Domain.csproj|e:\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\shortlink2\\shortlink.domain\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0736755-A122-424B-908A-E442112B8412}|shortLink.Domain\\shortLink.Domain.csproj|solutionrelative:shortlink.domain\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C84D98DC-79F5-405A-BEF5-30018DD43434}|ShortLinkWeb\\ShortLinkWeb.csproj|e:\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\shortlink2\\shortlinkweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C84D98DC-79F5-405A-BEF5-30018DD43434}|ShortLinkWeb\\ShortLinkWeb.csproj|solutionrelative:shortlinkweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C84D98DC-79F5-405A-BEF5-30018DD43434}|ShortLinkWeb\\ShortLinkWeb.csproj|e:\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\shortlink2\\shortlinkweb\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C84D98DC-79F5-405A-BEF5-30018DD43434}|ShortLinkWeb\\ShortLinkWeb.csproj|solutionrelative:shortlinkweb\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C84D98DC-79F5-405A-BEF5-30018DD43434}|ShortLinkWeb\\ShortLinkWeb.csproj|c:\\users\\sohei\\onedrive\\desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\shortlink2\\shortlinkweb\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C84D98DC-79F5-405A-BEF5-30018DD43434}|ShortLinkWeb\\ShortLinkWeb.csproj|e:\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\shortlink2\\shortlinkweb\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C84D98DC-79F5-405A-BEF5-30018DD43434}|ShortLinkWeb\\ShortLinkWeb.csproj|solutionrelative:shortlinkweb\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C84D98DC-79F5-405A-BEF5-30018DD43434}|ShortLinkWeb\\ShortLinkWeb.csproj|c:\\users\\sohei\\onedrive\\desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\shortlink2\\shortlinkweb\\middelware\\shortlinkurlredirect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C84D98DC-79F5-405A-BEF5-30018DD43434}|ShortLinkWeb\\ShortLinkWeb.csproj|solutionrelative:shortlinkweb\\middelware\\shortlinkurlredirect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C84D98DC-79F5-405A-BEF5-30018DD43434}|ShortLinkWeb\\ShortLinkWeb.csproj|e:\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\shortlink2\\shortlinkweb\\areas\\admin\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C84D98DC-79F5-405A-BEF5-30018DD43434}|ShortLinkWeb\\ShortLinkWeb.csproj|solutionrelative:shortlinkweb\\areas\\admin\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B89712F-5CC5-4991-845B-BE2A8D425CA5}|ShortLink.Infra.Data\\ShortLink.Infra.Data.csproj|c:\\users\\sohei\\onedrive\\desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\shortlink2\\shortlink.infra.data\\repositories\\linkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C0736755-A122-424B-908A-E442112B8412}|shortLink.Domain\\shortLink.Domain.csproj|e:\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\shortlink2\\shortlink.domain\\viewmodel\\account\\userforshowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0736755-A122-424B-908A-E442112B8412}|shortLink.Domain\\shortLink.Domain.csproj|solutionrelative:shortlink.domain\\viewmodel\\account\\userforshowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFEAD826-0DF0-4B45-82CE-905E53C179B3}|ShortLink.Application\\ShortLink.Application.csproj|e:\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\shortlink2\\shortlink.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFEAD826-0DF0-4B45-82CE-905E53C179B3}|ShortLink.Application\\ShortLink.Application.csproj|solutionrelative:shortlink.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFEAD826-0DF0-4B45-82CE-905E53C179B3}|ShortLink.Application\\ShortLink.Application.csproj|e:\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\shortlink2\\shortlink.application\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFEAD826-0DF0-4B45-82CE-905E53C179B3}|ShortLink.Application\\ShortLink.Application.csproj|solutionrelative:shortlink.application\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B89712F-5CC5-4991-845B-BE2A8D425CA5}|ShortLink.Infra.Data\\ShortLink.Infra.Data.csproj|e:\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\shortlink2\\shortlink.infra.data\\repositories\\linkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6B89712F-5CC5-4991-845B-BE2A8D425CA5}|ShortLink.Infra.Data\\ShortLink.Infra.Data.csproj|solutionrelative:shortlink.infra.data\\repositories\\linkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CFEAD826-0DF0-4B45-82CE-905E53C179B3}|ShortLink.Application\\ShortLink.Application.csproj|c:\\users\\sohei\\onedrive\\desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\shortlink2\\shortlink.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CFEAD826-0DF0-4B45-82CE-905E53C179B3}|ShortLink.Application\\ShortLink.Application.csproj|solutionrelative:shortlink.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CFEAD826-0DF0-4B45-82CE-905E53C179B3}|ShortLink.Application\\ShortLink.Application.csproj|e:\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\shortlink2\\shortlink.application\\services\\linkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFEAD826-0DF0-4B45-82CE-905E53C179B3}|ShortLink.Application\\ShortLink.Application.csproj|solutionrelative:shortlink.application\\services\\linkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C84D98DC-79F5-405A-BEF5-30018DD43434}|ShortLinkWeb\\ShortLinkWeb.csproj|e:\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\shortlink2\\shortlinkweb\\middelware\\shortlinkurlredirect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C84D98DC-79F5-405A-BEF5-30018DD43434}|ShortLinkWeb\\ShortLinkWeb.csproj|solutionrelative:shortlinkweb\\middelware\\shortlinkurlredirect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +82,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,68 +90,232 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ShortLinkUrlRedirect.cs",
-              "DocumentMoniker": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\ShortLink2\\ShortLinkWeb\\Middelware\\ShortLinkUrlRedirect.cs",
-              "RelativeDocumentMoniker": "ShortLinkWeb\\Middelware\\ShortLinkUrlRedirect.cs",
-              "ToolTip": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\ShortLink2\\ShortLinkWeb\\Middelware\\ShortLinkUrlRedirect.cs",
-              "RelativeToolTip": "ShortLinkWeb\\Middelware\\ShortLinkUrlRedirect.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBQAAAAIAAAA",
+              "DocumentIndex": 1,
+              "Title": "_AdminNavbar.cshtml",
+              "DocumentMoniker": "E:\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\ShortLink2\\ShortLinkWeb\\Areas\\Admin\\Views\\Shared\\_AdminNavbar.cshtml",
+              "RelativeDocumentMoniker": "ShortLinkWeb\\Areas\\Admin\\Views\\Shared\\_AdminNavbar.cshtml",
+              "ToolTip": "E:\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\ShortLink2\\ShortLinkWeb\\Areas\\Admin\\Views\\Shared\\_AdminNavbar.cshtml",
+              "RelativeToolTip": "ShortLinkWeb\\Areas\\Admin\\Views\\Shared\\_AdminNavbar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAB0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-12T13:30:13.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "E:\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\ShortLink2\\shortLink.Domain\\Interface\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "shortLink.Domain\\Interface\\IUserRepository.cs",
+              "ToolTip": "E:\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\ShortLink2\\shortLink.Domain\\Interface\\IUserRepository.cs",
+              "RelativeToolTip": "shortLink.Domain\\Interface\\IUserRepository.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwA8AAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T17:03:28.751Z",
+              "WhenOpened": "2024-03-29T09:28:28.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminBaseController.cs",
+              "DocumentMoniker": "E:\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\ShortLink2\\ShortLinkWeb\\Areas\\Admin\\Controllers\\AdminBaseController.cs",
+              "RelativeDocumentMoniker": "ShortLinkWeb\\Areas\\Admin\\Controllers\\AdminBaseController.cs",
+              "ToolTip": "E:\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\ShortLink2\\ShortLinkWeb\\Areas\\Admin\\Controllers\\AdminBaseController.cs",
+              "RelativeToolTip": "ShortLinkWeb\\Areas\\Admin\\Controllers\\AdminBaseController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T13:46:53.313Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\ShortLink2\\ShortLink.Application\\Services\\UserService.cs",
-              "RelativeDocumentMoniker": "ShortLink.Application\\Services\\UserService.cs",
-              "ToolTip": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\ShortLink2\\ShortLink.Application\\Services\\UserService.cs",
-              "RelativeToolTip": "ShortLink.Application\\Services\\UserService.cs",
-              "ViewState": "AQIAACwAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "E:\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\ShortLink2\\ShortLinkWeb\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "ShortLinkWeb\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "ToolTip": "E:\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\ShortLink2\\ShortLinkWeb\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "ShortLinkWeb\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T17:00:01.794Z",
+              "WhenOpened": "2024-04-12T15:19:43.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "E:\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\ShortLink2\\ShortLinkWeb\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "ShortLinkWeb\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "E:\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\ShortLink2\\ShortLinkWeb\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml*",
+              "RelativeToolTip": "ShortLinkWeb\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-12T13:27:50.159Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "LinkRepository.cs",
-              "DocumentMoniker": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\ShortLink2\\ShortLink.Infra.Data\\Repositories\\LinkRepository.cs",
-              "RelativeDocumentMoniker": "ShortLink.Infra.Data\\Repositories\\LinkRepository.cs",
-              "ToolTip": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\ShortLink2\\ShortLink.Infra.Data\\Repositories\\LinkRepository.cs",
-              "RelativeToolTip": "ShortLink.Infra.Data\\Repositories\\LinkRepository.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAmwC0AAAAIAAAA",
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\ShortLink2\\ShortLinkWeb\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ShortLinkWeb\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\ShortLink2\\ShortLinkWeb\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ShortLinkWeb\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T16:57:54.096Z",
+              "WhenOpened": "2024-04-12T15:28:27.75Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Startup.cs",
-              "DocumentMoniker": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\ShortLink2\\ShortLinkWeb\\Startup.cs",
-              "RelativeDocumentMoniker": "ShortLinkWeb\\Startup.cs",
-              "ToolTip": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\ShortLink2\\ShortLinkWeb\\Startup.cs",
-              "RelativeToolTip": "ShortLinkWeb\\Startup.cs",
-              "ViewState": "AQIAADoAAAAAAAAAAAAgwE4AAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T15:08:45.032Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\ShortLink2\\ShortLinkWeb\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ShortLinkWeb\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\ShortLink2\\ShortLinkWeb\\Areas\\Admin\\Views\\Home\\Index.cshtml*",
+              "RelativeToolTip": "ShortLinkWeb\\Areas\\Admin\\Views\\Home\\Index.cshtml*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-12T15:37:04.363Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\ShortLink2\\ShortLinkWeb\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "ShortLinkWeb\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\ShortLink2\\ShortLinkWeb\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "ShortLinkWeb\\Controllers\\AccountController.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAAAgwDIAAAAIAAAA",
+              "DocumentIndex": 9,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "E:\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\ShortLink2\\ShortLinkWeb\\Startup.cs",
+              "RelativeDocumentMoniker": "ShortLinkWeb\\Startup.cs",
+              "ToolTip": "E:\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\ShortLink2\\ShortLinkWeb\\Startup.cs",
+              "RelativeToolTip": "ShortLinkWeb\\Startup.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAkwGwAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T15:06:52.45Z",
+              "WhenOpened": "2024-04-11T13:16:46.066Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\ShortLink2\\ShortLinkWeb\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ShortLinkWeb\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\ShortLink2\\ShortLinkWeb\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ShortLinkWeb\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T16:34:55.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ShortLinkContext.cs",
+              "DocumentMoniker": "E:\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\ShortLink2\\ShortLink.Infra.Data\\Context\\ShortLinkContext.cs",
+              "RelativeDocumentMoniker": "ShortLink.Infra.Data\\Context\\ShortLinkContext.cs",
+              "ToolTip": "E:\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\ShortLink2\\ShortLink.Infra.Data\\Context\\ShortLinkContext.cs",
+              "RelativeToolTip": "ShortLink.Infra.Data\\Context\\ShortLinkContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T16:36:19.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "E:\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\ShortLink2\\ShortLinkWeb\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "ShortLinkWeb\\Controllers\\AccountController.cs",
+              "ToolTip": "E:\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\ShortLink2\\ShortLinkWeb\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "ShortLinkWeb\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAxwFwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T08:20:49.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\ShortLink2\\ShortLinkWeb\\Areas\\Admin\\Views\\Account\\Index.cshtml",
+              "RelativeDocumentMoniker": "ShortLinkWeb\\Areas\\Admin\\Views\\Account\\Index.cshtml",
+              "ToolTip": "E:\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\ShortLink2\\ShortLinkWeb\\Areas\\Admin\\Views\\Account\\Index.cshtml",
+              "RelativeToolTip": "ShortLinkWeb\\Areas\\Admin\\Views\\Account\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-12T15:38:21.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserForShowViewModel.cs",
+              "DocumentMoniker": "E:\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\ShortLink2\\shortLink.Domain\\ViewModel\\Account\\UserForShowViewModel.cs",
+              "RelativeDocumentMoniker": "shortLink.Domain\\ViewModel\\Account\\UserForShowViewModel.cs",
+              "ToolTip": "E:\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\ShortLink2\\shortLink.Domain\\ViewModel\\Account\\UserForShowViewModel.cs",
+              "RelativeToolTip": "shortLink.Domain\\ViewModel\\Account\\UserForShowViewModel.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA1wBIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T16:01:10.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "E:\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\ShortLink2\\ShortLink.Application\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "ShortLink.Application\\Interfaces\\IUserService.cs",
+              "ToolTip": "E:\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\ShortLink2\\ShortLink.Application\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "ShortLink.Application\\Interfaces\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T10:17:14.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "E:\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\ShortLink2\\ShortLink.Application\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "ShortLink.Application\\Services\\UserService.cs",
+              "ToolTip": "E:\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\ShortLink2\\ShortLink.Application\\Services\\UserService.cs",
+              "RelativeToolTip": "ShortLink.Application\\Services\\UserService.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAswD0AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T10:17:02.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LinkRepository.cs",
+              "DocumentMoniker": "E:\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\ShortLink2\\ShortLink.Infra.Data\\Repositories\\LinkRepository.cs",
+              "RelativeDocumentMoniker": "ShortLink.Infra.Data\\Repositories\\LinkRepository.cs",
+              "ToolTip": "E:\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\ShortLink2\\ShortLink.Infra.Data\\Repositories\\LinkRepository.cs",
+              "RelativeToolTip": "ShortLink.Infra.Data\\Repositories\\LinkRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T10:22:12.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ShortLinkUrlRedirect.cs",
+              "DocumentMoniker": "E:\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\ShortLink2\\ShortLinkWeb\\Middelware\\ShortLinkUrlRedirect.cs",
+              "RelativeDocumentMoniker": "ShortLinkWeb\\Middelware\\ShortLinkUrlRedirect.cs",
+              "ToolTip": "E:\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\ShortLink2\\ShortLinkWeb\\Middelware\\ShortLinkUrlRedirect.cs",
+              "RelativeToolTip": "ShortLinkWeb\\Middelware\\ShortLinkUrlRedirect.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwB8AAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T12:51:33.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LinkService.cs",
+              "DocumentMoniker": "E:\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\ShortLink2\\ShortLink.Application\\Services\\LinkService.cs",
+              "RelativeDocumentMoniker": "ShortLink.Application\\Services\\LinkService.cs",
+              "ToolTip": "E:\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\ShortLink2\\ShortLink.Application\\Services\\LinkService.cs",
+              "RelativeToolTip": "ShortLink.Application\\Services\\LinkService.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAgwFAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T10:20:34.276Z"
             }
           ]
         }

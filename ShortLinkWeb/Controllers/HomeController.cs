@@ -24,6 +24,7 @@ namespace ShortLinkWeb.Controllers
         [HttpGet]
         public IActionResult Index()
         {
+            
             return View();
         }
         [HttpPost , ValidateAntiForgeryToken]

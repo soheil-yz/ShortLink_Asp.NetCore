@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Yo2O3S9ysQLJE6T/tVMKcS/IujmauzUgpSbUwlNZbHvtJkF8oy6ki3cyctcRi4OhhdH74fIERlrIUVffuiSawA==",
+  "dgSpecHash": "Lqs2Bn+Ic7mZCK30HcVLsolhnPaJXDDHS1rytMW9RHj2FT1jbVsYhZ+C5mo0c3jqv13dFf8T22sQIUJZllhI1w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\ShortLinkWeb.csproj",
+  "projectFilePath": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLinkWeb\\ShortLinkWeb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sohei\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\sohei\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
@@ -166,7 +166,11 @@
     "C:\\Users\\sohei\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\sohei\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512",
     "C:\\Users\\sohei\\.nuget\\packages\\toastr\\2.1.1\\toastr.2.1.1.nupkg.sha512",
-    "C:\\Users\\sohei\\.nuget\\packages\\uaparser\\3.1.47\\uaparser.3.1.47.nupkg.sha512"
+    "C:\\Users\\sohei\\.nuget\\packages\\uaparser\\3.1.47\\uaparser.3.1.47.nupkg.sha512",
+    "C:\\Users\\sohei\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\sohei\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\sohei\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\sohei\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.16\\microsoft.netcore.app.host.win-x64.7.0.16.nupkg.sha512"
   ],
   "logs": []
 }

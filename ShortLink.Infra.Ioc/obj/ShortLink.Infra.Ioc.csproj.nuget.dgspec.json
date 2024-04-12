@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLink.Infra.Ioc\\ShortLink.Infra.Ioc.csproj": {}
+    "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLink.Infra.Ioc\\ShortLink.Infra.Ioc.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLink.Application\\ShortLink.Application.csproj": {
+    "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLink.Application\\ShortLink.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLink.Application\\ShortLink.Application.csproj",
+        "projectUniqueName": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLink.Application\\ShortLink.Application.csproj",
         "projectName": "ShortLink.Application",
-        "projectPath": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLink.Application\\ShortLink.Application.csproj",
+        "projectPath": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLink.Application\\ShortLink.Application.csproj",
         "packagesPath": "C:\\Users\\sohei\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLink.Application\\obj\\",
+        "outputPath": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLink.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sohei\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,8 +29,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\shortLink.Domain\\shortLink.Domain.csproj": {
-                "projectPath": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\shortLink.Domain\\shortLink.Domain.csproj"
+              "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\shortLink.Domain\\shortLink.Domain.csproj": {
+                "projectPath": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\shortLink.Domain\\shortLink.Domain.csproj"
               }
             }
           }
@@ -72,6 +72,20 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.16, 7.0.16]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.16, 7.0.16]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.16, 7.0.16]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -81,14 +95,14 @@
         }
       }
     },
-    "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\shortLink.Domain\\shortLink.Domain.csproj": {
+    "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\shortLink.Domain\\shortLink.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\shortLink.Domain\\shortLink.Domain.csproj",
+        "projectUniqueName": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\shortLink.Domain\\shortLink.Domain.csproj",
         "projectName": "shortLink.Domain",
-        "projectPath": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\shortLink.Domain\\shortLink.Domain.csproj",
+        "projectPath": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\shortLink.Domain\\shortLink.Domain.csproj",
         "packagesPath": "C:\\Users\\sohei\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\shortLink.Domain\\obj\\",
+        "outputPath": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\shortLink.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sohei\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -133,6 +147,20 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.16, 7.0.16]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.16, 7.0.16]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.16, 7.0.16]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -142,14 +170,14 @@
         }
       }
     },
-    "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLink.Infra.Data\\ShortLink.Infra.Data.csproj": {
+    "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLink.Infra.Data\\ShortLink.Infra.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLink.Infra.Data\\ShortLink.Infra.Data.csproj",
+        "projectUniqueName": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLink.Infra.Data\\ShortLink.Infra.Data.csproj",
         "projectName": "ShortLink.Infra.Data",
-        "projectPath": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLink.Infra.Data\\ShortLink.Infra.Data.csproj",
+        "projectPath": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLink.Infra.Data\\ShortLink.Infra.Data.csproj",
         "packagesPath": "C:\\Users\\sohei\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLink.Infra.Data\\obj\\",
+        "outputPath": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLink.Infra.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sohei\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -167,8 +195,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\shortLink.Domain\\shortLink.Domain.csproj": {
-                "projectPath": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\shortLink.Domain\\shortLink.Domain.csproj"
+              "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\shortLink.Domain\\shortLink.Domain.csproj": {
+                "projectPath": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\shortLink.Domain\\shortLink.Domain.csproj"
               }
             }
           }
@@ -232,6 +260,20 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.16, 7.0.16]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.16, 7.0.16]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.16, 7.0.16]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -241,14 +283,14 @@
         }
       }
     },
-    "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLink.Infra.Ioc\\ShortLink.Infra.Ioc.csproj": {
+    "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLink.Infra.Ioc\\ShortLink.Infra.Ioc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLink.Infra.Ioc\\ShortLink.Infra.Ioc.csproj",
+        "projectUniqueName": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLink.Infra.Ioc\\ShortLink.Infra.Ioc.csproj",
         "projectName": "ShortLink.Infra.Ioc",
-        "projectPath": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLink.Infra.Ioc\\ShortLink.Infra.Ioc.csproj",
+        "projectPath": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLink.Infra.Ioc\\ShortLink.Infra.Ioc.csproj",
         "packagesPath": "C:\\Users\\sohei\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLink.Infra.Ioc\\obj\\",
+        "outputPath": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLink.Infra.Ioc\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sohei\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -266,14 +308,14 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLink.Application\\ShortLink.Application.csproj": {
-                "projectPath": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLink.Application\\ShortLink.Application.csproj"
+              "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLink.Application\\ShortLink.Application.csproj": {
+                "projectPath": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLink.Application\\ShortLink.Application.csproj"
               },
-              "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\shortLink.Domain\\shortLink.Domain.csproj": {
-                "projectPath": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\shortLink.Domain\\shortLink.Domain.csproj"
+              "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\shortLink.Domain\\shortLink.Domain.csproj": {
+                "projectPath": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\shortLink.Domain\\shortLink.Domain.csproj"
               },
-              "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLink.Infra.Data\\ShortLink.Infra.Data.csproj": {
-                "projectPath": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLink.Infra.Data\\ShortLink.Infra.Data.csproj"
+              "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLink.Infra.Data\\ShortLink.Infra.Data.csproj": {
+                "projectPath": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLink.Infra.Data\\ShortLink.Infra.Data.csproj"
               }
             }
           }
@@ -309,6 +351,20 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.16, 7.0.16]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.16, 7.0.16]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.16, 7.0.16]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"

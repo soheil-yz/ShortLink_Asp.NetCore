@@ -3149,11 +3149,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLink.Infra.Data\\ShortLink.Infra.Data.csproj",
+      "projectUniqueName": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLink.Infra.Data\\ShortLink.Infra.Data.csproj",
       "projectName": "ShortLink.Infra.Data",
-      "projectPath": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLink.Infra.Data\\ShortLink.Infra.Data.csproj",
+      "projectPath": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLink.Infra.Data\\ShortLink.Infra.Data.csproj",
       "packagesPath": "C:\\Users\\sohei\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLink.Infra.Data\\obj\\",
+      "outputPath": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLink.Infra.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sohei\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3171,8 +3171,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\shortLink.Domain\\shortLink.Domain.csproj": {
-              "projectPath": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\shortLink.Domain\\shortLink.Domain.csproj"
+            "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\shortLink.Domain\\shortLink.Domain.csproj": {
+              "projectPath": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\shortLink.Domain\\shortLink.Domain.csproj"
             }
           }
         }
@@ -3236,6 +3236,20 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[7.0.16, 7.0.16]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[7.0.16, 7.0.16]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[7.0.16, 7.0.16]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uiKNCg5JJnOZ2RfDHLVdLZ57GnNWY1JkDQjK7kwVXJMy8bzj+ZbWEubUyAvbUn5wXDU/qtOKEiFfM7rSafOGYA==",
+  "dgSpecHash": "BkcxbzdQN1HoI5KVXYkUWrJdWudIulC0DmaU/YiDT80Dh1/3iC/aNgNMSxpXw1w3jxzQXNgO82qXTGcUYc1JSQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLink.Application\\ShortLink.Application.csproj",
+  "projectFilePath": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\ShortLink.Application\\ShortLink.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sohei\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\sohei\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.11\\microsoft.entityframeworkcore.7.0.11.nupkg.sha512",
@@ -25,7 +25,10 @@
     "C:\\Users\\sohei\\.nuget\\packages\\system.codedom\\4.4.0\\system.codedom.4.4.0.nupkg.sha512",
     "C:\\Users\\sohei\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
     "C:\\Users\\sohei\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512",
-    "C:\\Users\\sohei\\.nuget\\packages\\uaparser\\3.1.47\\uaparser.3.1.47.nupkg.sha512"
+    "C:\\Users\\sohei\\.nuget\\packages\\uaparser\\3.1.47\\uaparser.3.1.47.nupkg.sha512",
+    "C:\\Users\\sohei\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\sohei\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\sohei\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512"
   ],
   "logs": []
 }

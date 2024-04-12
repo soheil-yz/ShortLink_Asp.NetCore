@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Y7fC0jf/8WwfguZiyIikGHNDbB7V4A1eyM9QURAfpJf/ZKywOyeoFvcjpovrk0OFLMEfullUgTcfTiNi5Lo3ag==",
+  "dgSpecHash": "E3h1zmrdHqcvuUeUKV3BzRQ1ptpjDn4RjutHLl3whGVVGE1iwc2CsPgOB9XLPplwzuOTGrEAxXbEKxSuuZaVPg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\shortLink.Domain\\shortLink.Domain.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "E:\\ایمان تقوا وعمل صالح\\csharp\\ShortLink2\\shortLink.Domain\\shortLink.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sohei\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\sohei\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\sohei\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512"
+  ],
   "logs": []
 }

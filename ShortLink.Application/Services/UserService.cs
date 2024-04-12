@@ -1,5 +1,6 @@
 ﻿using shortLink.Domain.Interface;
 using shortLink.Domain.Models.Account;
+using shortLink.Domain.ViewModel.Account;
 using ShortLink.Application.DTOs.Account;
 using ShortLink.Application.Interfaces;
 
@@ -48,12 +49,17 @@ namespace ShortLink.Application.Services
 
              return LoginUserResult.Success;
         }
-
+        
         public async Task<User> GetUserByMobile(string mobile)
         {
             var Mobile = await _userRepository.GetUserByMobile(mobile);
             return Mobile;
 
+        }
+
+        public Task<List<UserForShowViewModel>> GetUserFors()
+        {
+            return _userRepository.GetAllUsersForShow();
         }
     }
 }
